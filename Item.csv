@@ -1,0 +1,1914 @@
+Item,Item Name,Item ID
+,Air,air
+,Cobblestone,cobblestone
+,Cobblestone Slab,cobblestone_slab
+,Cobblestone Stairs,cobblestone_stairs
+,Cobblestone Wall,cobblestone_wall
+,Infested Cobblestone,infested_cobblestone
+,Mossy Cobblestone,mossy_cobblestone
+,Mossy Cobblestone Slab,mossy_cobblestone_slab
+,Mossy Cobblestone Stairs,mossy_cobblestone_stairs
+,Mossy Cobblestone Wall,mossy_cobblestone_wall
+,Stone,stone
+,Stone Slab,stone_slab
+,Stone Stairs,stone_stairs
+,Infested Stone,infested_stone
+,Smooth Stone,smooth_stone
+,Smooth Stone Slab,smooth_stone_slab
+,Stone Bricks,stone_bricks
+,Stone Brick Slab,stone_brick_slab
+,Stone Brick Stairs,stone_brick_stairs
+,Stone Brick Wall,stone_brick_wall
+,Infested Stone Bricks,infested_stone_bricks
+,Cracked Stone Bricks,cracked_stone_bricks
+,Infested Cracked Stone Bricks,infested_cracked_stone_bricks
+,Chiseled Stone Bricks,chiseled_stone_bricks
+,Infested Chiseled Stone Bricks,infested_chiseled_stone_bricks
+,Mossy Stone Bricks,mossy_stone_bricks
+,Mossy Stone Brick Slab,mossy_stone_brick_slab
+,Mossy Stone Brick Stairs,mossy_stone_brick_stairs
+,Mossy Stone Brick Wall,mossy_stone_brick_wall
+,Infested Mossy Stone Bricks,infested_mossy_stone_bricks
+,Stone Pressure Plate,stone_pressure_plate
+,Stone Button,stone_button
+,Deepslate,deepslate
+,Cobbled Deepslate,cobbled_deepslate
+,Cobbled Deepslate Slab,cobbled_deepslate_slab
+,Cobbled Deepslate Stairs,cobbled_deepslate_stairs
+,Cobbled Deepslate Wall,cobbled_deepslate_wall
+,Infested Deepslate,infested_deepslate
+,Polished Deepslate,polished_deepslate
+,Polished Deepslate Slab,polished_deepslate_slab
+,Polished Deepslate Stairs,polished_deepslate_stairs
+,Polished Deepslate Wall,polished_deepslate_wall
+,Deepslate Bricks,deepslate_bricks
+,Deepslate Brick Slab,deepslate_brick_slab
+,Deepslate Brick Stairs,deepslate_brick_stairs
+,Deepslate Brick Wall,deepslate_brick_wall
+,Cracked Deepslate Bricks,cracked_deepslate_bricks
+,Deepslate Tiles,deepslate_tiles
+,Deepslate Tile Slab,deepslate_tile_slab
+,Deepslate Tile Stairs,deepslate_tile_stairs
+,Deepslate Tile Wall,deepslate_tile_wall
+,Cracked Deepslate Tiles,cracked_deepslate_tiles
+,Chiseled Deepslate,chiseled_deepslate
+,Reinforced Deepslate,reinforced_deepslate
+,Bedrock,bedrock
+,Diorite,diorite
+,Diorite Slab,diorite_slab
+,Diorite Stairs,diorite_stairs
+,Diorite Wall,diorite_wall
+,Polished Diorite,polished_diorite
+,Polished Diorite Slab,polished_diorite_slab
+,Polished Diorite Stairs,polished_diorite_stairs
+,Andesite,andesite
+,Andesite Slab,andesite_slab
+,Andesite Stairs,andesite_stairs
+,Andesite Wall,andesite_wall
+,Polished Andesite,polished_andesite
+,Polished Andesite Slab,polished_andesite_slab
+,Polished Andesite Stairs,polished_andesite_stairs
+,Granite,granite
+,Granite Slab,granite_slab
+,Granite Stairs,granite_stairs
+,Granite Wall,granite_wall
+,Polished Granite,polished_granite
+,Polished Granite Slab,polished_granite_slab
+,Polished Granite Stairs,polished_granite_stairs
+,Tuff,tuff
+,Tuff Slab,tuff_slab
+,Tuff Stairs,tuff_stairs
+,Tuff Wall,tuff_wall
+,Chiseled Tuff,chiseled_tuff
+,Polished Tuff,polished_tuff
+,Polished Tuff Slab,polished_tuff_slab
+,Polished Tuff Stairs,polished_tuff_stairs
+,Polished Tuff Wall,polished_tuff_wall
+,Tuff Bricks,tuff_bricks
+,Tuff Brick Slab,tuff_brick_slab
+,Tuff Brick Stairs,tuff_brick_stairs
+,Tuff Brick Wall,tuff_brick_wall
+,Chiseled Tuff Bricks,chiseled_tuff_bricks
+,Calcite,calcite
+,Dripstone Block,dripstone_block
+,Pointed Dripstone,pointed_dripstone
+,Dirt,dirt
+,Grass Block,grass_block
+,Mycelium,mycelium
+,Podzol,podzol
+,Coarse Dirt,coarse_dirt
+,Rooted Dirt,rooted_dirt
+,Dirt Path,dirt_path
+,Farmland,farmland
+,Oak Log,oak_log
+,Oak Wood,oak_wood
+,Stripped Oak Log,stripped_oak_log
+,Stripped Oak Wood,stripped_oak_wood
+,Oak Planks,oak_planks
+,Oak Slab,oak_slab
+,Oak Stairs,oak_stairs
+,Oak Fence,oak_fence
+,Oak Fence Gate,oak_fence_gate
+,Oak Door,oak_door
+,Oak Trapdoor,oak_trapdoor
+,Oak Shelf,oak_shelf
+,Oak Sign,oak_sign
+,Oak Hanging Sign,oak_hanging_sign
+,Oak Pressure Plate,oak_pressure_plate
+,Oak Button,oak_button
+,Oak Boat,oak_boat
+,Oak Boat with Chest,oak_chest_boat
+,Birch Log,birch_log
+,Birch Wood,birch_wood
+,Stripped Birch Log,stripped_birch_log
+,Stripped Birch Wood,stripped_birch_wood
+,Birch Planks,birch_planks
+,Birch Slab,birch_slab
+,Birch Stairs,birch_stairs
+,Birch Fence,birch_fence
+,Birch Fence Gate,birch_fence_gate
+,Birch Door,birch_door
+,Birch Trapdoor,birch_trapdoor
+,Birch Shelf,birch_shelf
+,Birch Sign,birch_sign
+,Birch Hanging Sign,birch_hanging_sign
+,Birch Pressure Plate,birch_pressure_plate
+,Birch Button,birch_button
+,Birch Boat,birch_boat
+,Birch Boat with Chest,birch_chest_boat
+,Spruce Log,spruce_log
+,Spruce Wood,spruce_wood
+,Stripped Spruce Log,stripped_spruce_log
+,Stripped Spruce Wood,stripped_spruce_wood
+,Spruce Planks,spruce_planks
+,Spruce Slab,spruce_slab
+,Spruce Stairs,spruce_stairs
+,Spruce Fence,spruce_fence
+,Spruce Fence Gate,spruce_fence_gate
+,Spruce Door,spruce_door
+,Spruce Trapdoor,spruce_trapdoor
+,Spruce Shelf,spruce_shelf
+,Spruce Sign,spruce_sign
+,Spruce Hanging Sign,spruce_hanging_sign
+,Spruce Pressure Plate,spruce_pressure_plate
+,Spruce Button,spruce_button
+,Spruce Boat,spruce_boat
+,Spruce Boat with Chest,spruce_chest_boat
+,Jungle Log,jungle_log
+,Jungle Wood,jungle_wood
+,Stripped Jungle Log,stripped_jungle_log
+,Stripped Jungle Wood,stripped_jungle_wood
+,Jungle Planks,jungle_planks
+,Jungle Slab,jungle_slab
+,Jungle Stairs,jungle_stairs
+,Jungle Fence,jungle_fence
+,Jungle Fence Gate,jungle_fence_gate
+,Jungle Door,jungle_door
+,Jungle Trapdoor,jungle_trapdoor
+,Jungle Shelf,jungle_shelf
+,Jungle Sign,jungle_sign
+,Jungle Hanging Sign,jungle_hanging_sign
+,Jungle Pressure Plate,jungle_pressure_plate
+,Jungle Button,jungle_button
+,Jungle Boat,jungle_boat
+,Jungle Boat with Chest,jungle_chest_boat
+,Dark Oak Log,dark_oak_log
+,Dark Oak Wood,dark_oak_wood
+,Stripped Dark Oak Log,stripped_dark_oak_log
+,Stripped Dark Oak Wood,stripped_dark_oak_wood
+,Dark Oak Planks,dark_oak_planks
+,Dark Oak Slab,dark_oak_slab
+,Dark Oak Stairs,dark_oak_stairs
+,Dark Oak Fence,dark_oak_fence
+,Dark Oak Fence Gate,dark_oak_fence_gate
+,Dark Oak Door,dark_oak_door
+,Dark Oak Trapdoor,dark_oak_trapdoor
+,Dark Oak Shelf,dark_oak_shelf
+,Dark Oak Sign,dark_oak_sign
+,Dark Oak Hanging Sign,dark_oak_hanging_sign
+,Dark Oak Pressure Plate,dark_oak_pressure_plate
+,Dark Oak Button,dark_oak_button
+,Dark Oak Boat,dark_oak_boat
+,Dark Oak Boat with Chest,dark_oak_chest_boat
+,Acacia Log,acacia_log
+,Acacia Wood,acacia_wood
+,Stripped Acacia Log,stripped_acacia_log
+,Stripped Acacia Wood,stripped_acacia_wood
+,Acacia Planks,acacia_planks
+,Acacia Slab,acacia_slab
+,Acacia Stairs,acacia_stairs
+,Acacia Fence,acacia_fence
+,Acacia Fence Gate,acacia_fence_gate
+,Acacia Door,acacia_door
+,Acacia Trapdoor,acacia_trapdoor
+,Acacia Shelf,acacia_shelf
+,Acacia Sign,acacia_sign
+,Acacia Hanging Sign,acacia_hanging_sign
+,Acacia Pressure Plate,acacia_pressure_plate
+,Acacia Button,acacia_button
+,Acacia Boat,acacia_boat
+,Acacia Boat with Chest,acacia_chest_boat
+,Mangrove Log,mangrove_log
+,Mangrove Wood,mangrove_wood
+,Stripped Mangrove Log,stripped_mangrove_log
+,Stripped Mangrove Wood,stripped_mangrove_wood
+,Mangrove Planks,mangrove_planks
+,Mangrove Slab,mangrove_slab
+,Mangrove Stairs,mangrove_stairs
+,Mangrove Fence,mangrove_fence
+,Mangrove Fence Gate,mangrove_fence_gate
+,Mangrove Door,mangrove_door
+,Mangrove Trapdoor,mangrove_trapdoor
+,Mangrove Shelf,mangrove_shelf
+,Mangrove Sign,mangrove_sign
+,Mangrove Hanging Sign,mangrove_hanging_sign
+,Mangrove Pressure Plate,mangrove_pressure_plate
+,Mangrove Button,mangrove_button
+,Mangrove Boat,mangrove_boat
+,Mangrove Boat with Chest,mangrove_chest_boat
+,Cherry Log,cherry_log
+,Cherry Wood,cherry_wood
+,Stripped Cherry Log,stripped_cherry_log
+,Stripped Cherry Wood,stripped_cherry_wood
+,Cherry Planks,cherry_planks
+,Cherry Slab,cherry_slab
+,Cherry Stairs,cherry_stairs
+,Cherry Fence,cherry_fence
+,Cherry Fence Gate,cherry_fence_gate
+,Cherry Door,cherry_door
+,Cherry Trapdoor,cherry_trapdoor
+,Cherry Shelf,cherry_shelf
+,Cherry Sign,cherry_sign
+,Cherry Hanging Sign,cherry_hanging_sign
+,Cherry Pressure Plate,cherry_pressure_plate
+,Cherry Button,cherry_button
+,Cherry Boat,cherry_boat
+,Cherry Boat with Chest,cherry_chest_boat
+,Block of Bamboo,bamboo_block
+,Block of Stripped Bamboo,stripped_bamboo_block
+,Bamboo Planks,bamboo_planks
+,Bamboo Slab,bamboo_slab
+,Bamboo Stairs,bamboo_stairs
+,Bamboo Fence,bamboo_fence
+,Bamboo Fence Gate,bamboo_fence_gate
+,Bamboo Door,bamboo_door
+,Bamboo Trapdoor,bamboo_trapdoor
+,Bamboo Shelf,bamboo_shelf
+,Bamboo Sign,bamboo_sign
+,Bamboo Hanging Sign,bamboo_hanging_sign
+,Bamboo Pressure Plate,bamboo_pressure_plate
+,Bamboo Button,bamboo_button
+,Bamboo Raft,bamboo_raft
+,Bamboo Raft with Chest,bamboo_chest_raft
+,Bamboo Mosaic,bamboo_mosaic
+,Bamboo Mosaic Slab,bamboo_mosaic_slab
+,Bamboo Mosaic Stairs,bamboo_mosaic_stairs
+,Pale Oak Log,pale_oak_log
+,Creaking Heart,creaking_heart
+,Pale Oak Wood,pale_oak_wood
+,Stripped Pale Oak Log,stripped_pale_oak_log
+,Stripped Pale Oak Wood,stripped_pale_oak_wood
+,Pale Oak Planks,pale_oak_planks
+,Pale Oak Slab,pale_oak_slab
+,Pale Oak Stairs,pale_oak_stairs
+,Pale Oak Fence,pale_oak_fence
+,Pale Oak Fence Gate,pale_oak_fence_gate
+,Pale Oak Door,pale_oak_door
+,Pale Oak Trapdoor,pale_oak_trapdoor
+,Pale Oak Shelf,pale_oak_shelf
+,Pale Oak Sign,pale_oak_sign
+,Pale Oak Hanging Sign,pale_oak_hanging_sign
+,Pale Oak Pressure Plate,pale_oak_pressure_plate
+,Pale Oak Button,pale_oak_button
+,Pale Oak Boat,pale_oak_boat
+,Pale Oak Boat with Chest,pale_oak_chest_boat
+,Warped Stem,warped_stem
+,Warped Hyphae,warped_hyphae
+,Stripped Warped Stem,stripped_warped_stem
+,Stripped Warped Hyphae,stripped_warped_hyphae
+,Warped Planks,warped_planks
+,Warped Slab,warped_slab
+,Warped Stairs,warped_stairs
+,Warped Fence,warped_fence
+,Warped Fence Gate,warped_fence_gate
+,Warped Door,warped_door
+,Warped Trapdoor,warped_trapdoor
+,Warped Shelf,warped_shelf
+,Warped Sign,warped_sign
+,Warped Hanging Sign,warped_hanging_sign
+,Warped Pressure Plate,warped_pressure_plate
+,Warped Button,warped_button
+,Crimson Stem,crimson_stem
+,Crimson Hyphae,crimson_hyphae
+,Stripped Crimson Stem,stripped_crimson_stem
+,Stripped Crimson Hyphae,stripped_crimson_hyphae
+,Crimson Planks,crimson_planks
+,Crimson Slab,crimson_slab
+,Crimson Stairs,crimson_stairs
+,Crimson Fence,crimson_fence
+,Crimson Fence Gate,crimson_fence_gate
+,Crimson Door,crimson_door
+,Crimson Trapdoor,crimson_trapdoor
+,Crimson Shelf,crimson_shelf
+,Crimson Sign,crimson_sign
+,Crimson Hanging Sign,crimson_hanging_sign
+,Crimson Pressure Plate,crimson_pressure_plate
+,Crimson Button,crimson_button
+,Petrified Oak Slab,petrified_oak_slab
+,Gravel,gravel
+,Suspicious Gravel,suspicious_gravel
+,Flint,flint
+,Sand,sand
+,Suspicious Sand,suspicious_sand
+,Sandstone,sandstone
+,Sandstone Slab,sandstone_slab
+,Sandstone Stairs,sandstone_stairs
+,Sandstone Wall,sandstone_wall
+,Smooth Sandstone,smooth_sandstone
+,Smooth Sandstone Slab,smooth_sandstone_slab
+,Smooth Sandstone Stairs,smooth_sandstone_stairs
+,Cut Sandstone,cut_sandstone
+,Cut Sandstone Slab,cut_sandstone_slab
+,Chiseled Sandstone,chiseled_sandstone
+,Red Sand,red_sand
+,Red Sandstone,red_sandstone
+,Red Sandstone Slab,red_sandstone_slab
+,Red Sandstone Stairs,red_sandstone_stairs
+,Red Sandstone Wall,red_sandstone_wall
+,Smooth Red Sandstone,smooth_red_sandstone
+,Smooth Red Sandstone Slab,smooth_red_sandstone_slab
+,Smooth Red Sandstone Stairs,smooth_red_sandstone_stairs
+,Cut Red Sandstone,cut_red_sandstone
+,Cut Red Sandstone Slab,cut_red_sandstone_slab
+,Chiseled Red Sandstone,chiseled_red_sandstone
+,Emerald Ore,emerald_ore
+,Deepslate Emerald Ore,deepslate_emerald_ore
+,Coal Ore,coal_ore
+,Deepslate Coal Ore,deepslate_coal_ore
+,Copper Ore,copper_ore
+,Deepslate Copper Ore,deepslate_copper_ore
+,Iron Ore,iron_ore
+,Deepslate Iron Ore,deepslate_iron_ore
+,Lapis Lazuli Ore,lapis_ore
+,Deepslate Lapis Lazuli Ore,deepslate_lapis_ore
+,Gold Ore,gold_ore
+,Deepslate Gold Ore,deepslate_gold_ore
+,Redstone Ore,redstone_ore
+,Deepslate Redstone Ore,deepslate_redstone_ore
+,Diamond Ore,diamond_ore
+,Deepslate Diamond Ore,deepslate_diamond_ore
+,Nether Quartz Ore,nether_quartz_ore
+,Nether Gold Ore,nether_gold_ore
+,Ancient Debris,ancient_debris
+,Emerald,emerald
+,Block of Emerald,emerald_block
+,Coal,coal
+,Block of Coal,coal_block
+,Raw Copper,raw_copper
+,Block of Raw Copper,raw_copper_block
+,Copper ingot,copper_ingot
+,Block of Copper,copper_block
+,Exposed Copper,exposed_copper
+,Weathered Copper,weathered_copper
+,Oxidized Copper,oxidized_copper
+,Cut Copper,cut_copper
+,Exposed Cut Copper,exposed_cut_copper
+,Weathered Cut Copper,weathered_cut_copper
+,Oxidized Cut Copper,oxidized_cut_copper
+,Cut Copper Slab,cut_copper_slab
+,Exposed Cut Copper Slab,exposed_cut_copper_slab
+,Weathered Cut Copper Slab,weathered_cut_copper_slab
+,Oxidized Cut Copper Slab,oxidized_cut_copper_slab
+,Cut Copper Stairs,cut_copper_stairs
+,Exposed Cut Copper Stairs,exposed_cut_copper_stairs
+,Weathered Cut Copper Stairs,weathered_cut_copper_stairs
+,Oxidized Cut Copper Stairs,oxidized_cut_copper_stairs
+,Chiseled Copper,chiseled_copper
+,Exposed Chiseled Copper,exposed_chiseled_copper
+,Weathered Chiseled Copper,weathered_chiseled_copper
+,Oxidized Chiseled Copper,oxidized_chiseled_copper
+,Copper Grate,copper_grate
+,Exposed Copper Grate,exposed_copper_grate
+,Weathered Copper Grate,weathered_copper_grate
+,Oxidized Copper Grate,oxidized_copper_grate
+,Copper Bulb,copper_bulb
+,Exposed Copper Bulb,exposed_copper_bulb
+,Weathered Copper Bulb,weathered_copper_bulb
+,Oxidized Copper Bulb,oxidized_copper_bulb
+,Copper Chest,copper_chest
+,Exposed Copper Chest,exposed_copper_chest
+,Weathered Copper Chest,weathered_copper_chest
+,Oxidized Copper Chest,oxidized_copper_chest
+,Copper Door,copper_door
+,Exposed Copper Door,exposed_copper_door
+,Weathered Copper Door,weathered_copper_door
+,Oxidized Copper Door,oxidized_copper_door
+,Copper Trapdoor,copper_trapdoor
+,Exposed Copper Trapdoor,exposed_copper_trapdoor
+,Weathered Copper Trapdoor,weathered_copper_trapdoor
+,Oxidized Copper Trapdoor,oxidized_copper_trapdoor
+,Copper Bars,copper_bars
+,Exposed Copper Bars,exposed_copper_bars
+,Weathered Copper Bars,weathered_copper_bars
+,Oxidized Copper Bars,oxidized_copper_bars
+,Copper Chain,copper_chain
+,Exposed Copper Chain,exposed_copper_chain
+,Weathered Copper Chain,weathered_copper_chain
+,Oxidized Copper Chain,oxidized_copper_chain
+,Copper Lantern,copper_lantern
+,Exposed Copper Lantern,exposed_copper_lantern
+,Weathered Copper Lantern,weathered_copper_lantern
+,Oxidized Copper Lantern,oxidized_copper_lantern
+,Lightning Rod,lightning_rod
+,Exposed Lightning Rod,exposed_lightning_rod
+,Weathered Lightning Rod,weathered_lightning_rod
+,Oxidized Lightning Rod,oxidized_lightning_rod
+,Copper Golem Statue,copper_golem_statue
+,Exposed Copper Golem Statue,exposed_copper_golem_statue
+,Weathered Copper Golem Statue,weathered_copper_golem_statue
+,Oxidized Copper Golem Statue,oxidized_copper_golem_statue
+,Waxed Block of Copper,waxed_copper_block
+,Waxed Exposed Copper,waxed_exposed_copper
+,Waxed Weathered Copper,waxed_weathered_copper
+,Waxed Oxidized Copper,waxed_oxidized_copper
+,Waxed Cut Copper,waxed_cut_copper
+,Waxed Exposed Cut Copper,waxed_exposed_cut_copper
+,Waxed Weathered Cut Copper,waxed_weathered_cut_copper
+,Waxed Oxidized Cut Copper,waxed_oxidized_cut_copper
+,Waxed Cut Copper Slab,waxed_cut_copper_slab
+,Waxed Exposed Cut Copper Slab,waxed_exposed_cut_copper_slab
+,Waxed Weathered Cut Copper Slab,waxed_weathered_cut_copper_slab
+,Waxed Oxidized Cut Copper Slab,waxed_oxidized_cut_copper_slab
+,Waxed Cut Copper Stairs,waxed_cut_copper_stairs
+,Waxed Exposed Cut Copper Stairs,waxed_exposed_cut_copper_stairs
+,Waxed Weathered Cut Copper Stairs,waxed_weathered_cut_copper_stairs
+,Waxed Oxidized Cut Copper Stairs,waxed_oxidized_cut_copper_stairs
+,Waxed Chiseled Copper,waxed_chiseled_copper
+,Waxed Exposed Chiseled Copper,waxed_exposed_chiseled_copper
+,Waxed Weathered Chiseled Copper,waxed_weathered_chiseled_copper
+,Waxed Oxidized Chiseled Copper,waxed_oxidized_chiseled_copper
+,Waxed Copper Grate,waxed_copper_grate
+,Waxed Exposed Copper Grate,waxed_exposed_copper_grate
+,Waxed Weathered Copper Grate,waxed_weathered_copper_grate
+,Waxed Oxidized Copper Grate,waxed_oxidized_copper_grate
+,Waxed Copper Bulb,waxed_copper_bulb
+,Waxed Exposed Copper Bulb,waxed_exposed_copper_bulb
+,Waxed Weathered Copper Bulb,waxed_weathered_copper_bulb
+,Waxed Oxidized Copper Bulb,waxed_oxidized_copper_bulb
+,Waxed Copper Chest,waxed_copper_chest
+,Waxed Exposed Copper Chest,waxed_exposed_copper_chest
+,Waxed Weathered Copper Chest,waxed_weathered_copper_chest
+,Waxed Oxidized Copper Chest,waxed_oxidized_copper_chest
+,Waxed Copper Door,waxed_copper_door
+,Waxed Exposed Copper Door,waxed_exposed_copper_door
+,Waxed Weathered Copper Door,waxed_weathered_copper_door
+,Waxed Oxidized Copper Door,waxed_oxidized_copper_door
+,Waxed Copper Trapdoor,waxed_copper_trapdoor
+,Waxed Exposed Copper Trapdoor,waxed_exposed_copper_trapdoor
+,Waxed Weathered Copper Trapdoor,waxed_weathered_copper_trapdoor
+,Waxed Oxidized Copper Trapdoor,waxed_oxidized_copper_trapdoor
+,Waxed Copper Bars,waxed_copper_bars
+,Waxed Exposed Copper Bars,waxed_exposed_copper_bars
+,Waxed Weathered Copper Bars,waxed_weathered_copper_bars
+,Waxed Oxidized Copper Bars,waxed_oxidized_copper_bars
+,Waxed Copper Chain,waxed_copper_chain
+,Waxed Exposed Copper Chain,waxed_exposed_copper_chain
+,Waxed Weathered Copper Chain,waxed_weathered_copper_chain
+,Waxed Oxidized Copper Chain,waxed_oxidized_copper_chain
+,Waxed Copper Lantern,waxed_copper_lantern
+,Waxed Exposed Copper Lantern,waxed_exposed_copper_lantern
+,Waxed Weathered Copper Lantern,waxed_weathered_copper_lantern
+,Waxed Oxidized Copper Lantern,waxed_oxidized_copper_lantern
+,Waxed Copper Lightning Rod,waxed_copper_lightning_rod
+,Waxed Exposed Lightning Rod,waxed_exposed_lightning_rod
+,Waxed Weathered Lightning Rod,waxed_weathered_lightning_rod
+,Waxed Oxidized Lightning Rod,waxed_oxidized_lightning_rod
+,Waxed Copper Golem Statue,waxed_copper_golem_statue
+,Waxed Exposed Copper Golem Statue,waxed_exposed_copper_golem_statue
+,Waxed Weathered Copper Golem Statue,waxed_weathered_copper_golem_statue
+,Waxed Oxidized Copper Golem Statue,waxed_oxidized_copper_golem_statue
+,Copper Nugget,copper_nugget
+,Raw Iron,raw_iron
+,Block of Raw Iron,raw_iron_block
+,Iron Ingot,iron_ingot
+,Block of Iron,iron_block
+,Iron Door,iron_door
+,Iron Trapdoor,iron_trapdoor
+,Iron Bars,iron_bars
+,Iron Chain,iron_chain
+,Heavy Weighted Pressure Plate,heavy_weighted_pressure_plate
+,Iron Nugget,iron_nugget
+,Lapis Lazuli,lapis_lazuli
+,Block of Lapis Lazuli,lapis_block
+,Raw Gold,raw_gold
+,Block of Raw Gold,raw_gold_block
+,Gold Ingot,gold_ingot
+,Block of Gold,gold_block
+,Light Weighted Pressure Plate,light_weighted_pressure_plate
+,Gold Nugget,gold_nugget
+,Redstone Dust,redstone
+,Block of Redstone,redstone_block
+,Diamond,diamond
+,Block of Diamond,diamond_block
+,Nether Quartz,quartz
+,Block of Quartz,quartz_block
+,Quartz Slab,quartz_slab
+,Quartz Stairs,quartz_stairs
+,Smooth Quartz Block,smooth_quartz
+,Smooth Quartz Slab,smooth_quartz_slab
+,Smooth Quartz Stairs,smooth_quartz_stairs
+,Chiseled Quartz Block,chiseled_quartz_block
+,Quartz Pillar,quartz_pillar
+,Quartz Bricks,quartz_bricks
+,Netherite Scrap,netherite_scrap
+,Netherite Ingot,netherite_ingot
+,Block of Netherite,netherite_block
+,Small Amethyst Bud,small_amethyst_bud
+,Medium Amethyst Bud,medium_amethyst_bud
+,Large Amethyst Bud,large_amethyst_bud
+,Amethyst Cluster,amethyst_cluster
+,Amethyst Shard,amethyst_shard
+,Block of Amethyst,amethyst_block
+,Budding Amethyst,budding_amethyst
+,Resin Clump,resin_clump
+,Block of Resin,resin_block
+,Resin Brick,resin_brick
+,Resin Bricks,resin_bricks
+,Resin Brick Slab,resin_brick_slab
+,Resin Brick Stairs,resin_brick_stairs
+,Resin Brick Wall,resin_brick_wall
+,Chiseled Resin Bricks,chiseled_resin_bricks
+,Clay Ball,clay_ball
+,Clay,clay
+,Brick,brick
+,Bricks,bricks
+,Brick Slab,brick_slab
+,Brick Stairs,brick_stairs
+,Brick Wall,brick_wall
+,Mud,mud
+,Packed Mud,packed_mud
+,Mud Bricks,mud_bricks
+,Mud Brick Slab,mud_brick_slab
+,Mud Brick Stairs,mud_brick_stairs
+,Mud Brick Wall,mud_brick_wall
+,Prismarine Shard,prismarine_shard
+,Prismarine Crystals,prismarine_crystals
+,Prismarine,prismarine
+,Prismarine Slab,prismarine_slab
+,Prismarine Stairs,prismarine_stairs
+,Prismarine Wall,prismarine_wall
+,Prismarine Bricks,prismarine_bricks
+,Prismarine Brick Slab,prismarine_brick_slab
+,Prismarine Brick Stairs,prismarine_brick_stairs
+,Dark Prismarine,dark_prismarine
+,Dark Prismarine Slab,dark_prismarine_slab
+,Dark Prismarine Stairs,dark_prismarine_stairs
+,Sea Lantern,sea_lantern
+,Sponge,sponge
+,Wet Sponge,wet_sponge
+,Snowball,snowball
+,Snow Block,snow_block
+,Snow,snow
+,Ice,ice
+,Packed Ice,packed_ice
+,Blue Ice,blue_ice
+,Netherrack,netherrack
+,Glowstone Dust,glowstone_dust
+,Glowstone,glowstone
+,Shroomlight,shroomlight
+,Magma Block,magma_block
+,Nether Wart,nether_wart
+,Nether Brick,nether_brick
+,Nether Bricks,nether_bricks
+,Nether Brick Slab,nether_brick_slab
+,Nether Brick Stairs,nether_brick_stairs
+,Nether Brick Wall,nether_brick_wall
+,Nether Brick Fence,nether_brick_fence
+,Chiseled Nether Bricks,chiseled_nether_bricks
+,Cracked Nether Bricks,cracked_nether_bricks
+,Red Nether Bricks,red_nether_bricks
+,Red Nether Brick Slab,red_nether_brick_slab
+,Red Nether Brick Stairs,red_nether_brick_stairs
+,Red Nether Brick Wall,red_nether_brick_wall
+,Warped Nylium,warped_nylium
+,Warped Wart Block,warped_wart_block
+,Warped Fungus,warped_fungus
+,Warped Roots,warped_roots
+,Nether Sprouts,nether_sprouts
+,Twisting Vines,twisting_vines
+,Crimson Nylium,crimson_nylium
+,Nether Wart Block,nether_wart_block
+,Crimson Fungus,crimson_fungus
+,Crimson Roots,crimson_roots
+,Weeping Vines,weeping_vines
+,Basalt,basalt
+,Polished Basalt,polished_basalt
+,Smooth Basalt,smooth_basalt
+,Soul Sand,soul_sand
+,Soul Soil,soul_soil
+,Blackstone,blackstone
+,Blackstone Slab,blackstone_slab
+,Blackstone Stairs,blackstone_stairs
+,Blackstone Wall,blackstone_wall
+,Polished Blackstone,polished_blackstone
+,Polished Blackstone Slab,polished_blackstone_slab
+,Polished Blackstone Stairs,polished_blackstone_stairs
+,Polished Blackstone Wall,polished_blackstone_wall
+,Polished Blackstone Bricks,polished_blackstone_bricks
+,Polished Blackstone Brick Slab,polished_blackstone_brick_slab
+,Polished Blackstone Brick Stairs,polished_blackstone_brick_stairs
+,Polished Blackstone Brick Wall,polished_blackstone_brick_wall
+,Cracked Polished Blackstone Bricks,cracked_polished_blackstone_bricks
+,Chiseled Polished Blackstone,chiseled_polished_blackstone
+,Polished Blackstone Pressure Plate,polished_blackstone_pressure_plate
+,Polished Blackstone Button,polished_blackstone_button
+,Gilded Blackstone,gilded_blackstone
+,Obsidian,obsidian
+,Crying Obsidian,crying_obsidian
+,End Stone,end_stone
+,End Stone Bricks,end_stone_bricks
+,End Stone Brick Slab,end_stone_brick_slab
+,End Stone Brick Stairs,end_stone_brick_stairs
+,End Stone Brick Wall,end_stone_brick_wall
+,End Portal Frame,end_portal_frame
+,Chorus Flower,chorus_flower
+,Chorus Plant,chorus_plant
+,Chorus Fruit,chorus_fruit
+,Popped Chorus,popped_chorus_fruit
+,Purpur Block,purpur_block
+,Purpur Slab,purpur_slab
+,Purpur Stairs,purpur_stairs
+,Purpur Pillar,purpur_pillar
+,White Dye,white_dye
+,Light Gray Dye,light_gray_dye
+,Gray Dye,gray_dye
+,Black Dye,black_dye
+,Brown Dye,brown_dye
+,Red Dye,red_dye
+,Orange Dye,orange_dye
+,Yellow Dye,yellow_dye
+,Lime Dye,lime_dye
+,Green Dye,green_dye
+,Cyan Dye,cyan_dye
+,Light Blue Dye,light_blue_dye
+,Blue Dye,blue_dye
+,Purple Dye,purple_dye
+,Magenta Dye,magenta_dye
+,Pink Dye,pink_dye
+,White Wool,white_wool
+,Light Gray Wool,light_gray_wool
+,Gray Wool,gray_wool
+,Black Wool,black_wool
+,Brown Wool,brown_wool
+,Red Wool,red_wool
+,Orange Wool,orange_wool
+,Yellow Wool,yellow_wool
+,Lime Wool,lime_wool
+,Green Wool,green_wool
+,Cyan Wool,cyan_wool
+,Light Blue Wool,light_blue_wool
+,Blue Wool,blue_wool
+,Purple Wool,purple_wool
+,Magenta Wool,magenta_wool
+,Pink Wool,pink_wool
+,White Carpet,white_carpet
+,Light Gray Carpet,light_gray_carpet
+,Gray Carpet,gray_carpet
+,Black Carpet,black_carpet
+,Brown Carpet,brown_carpet
+,Red Carpet,red_carpet
+,Orange Carpet,orange_carpet
+,Yellow Carpet,yellow_carpet
+,Lime Carpet,lime_carpet
+,Green Carpet,green_carpet
+,Cyan Carpet,cyan_carpet
+,Light Blue Carpet,light_blue_carpet
+,Blue Carpet,blue_carpet
+,Purple Carpet,purple_carpet
+,Magenta Carpet,magenta_carpet
+,Pink Carpet,pink_carpet
+,White Banner,white_banner
+,Light Gray Banner,light_gray_banner
+,Gray Banner,gray_banner
+,Black Banner,black_banner
+,Brown Banner,brown_banner
+,Red Banner,red_banner
+,Orange Banner,orange_banner
+,Yellow Banner,yellow_banner
+,Lime Banner,lime_banner
+,Green Banner,green_banner
+,Cyan Banner,cyan_banner
+,Light Blue Banner,light_blue_banner
+,Blue Banner,blue_banner
+,Purple Banner,purple_banner
+,Magenta Banner,magenta_banner
+,Pink Banner,pink_banner
+,Ominous Banner,"white_banner[banner_patterns=[{""pattern"":""minecraft:rhombus"",""color"":""cyan""},{""pattern"":""minecraft:stripe_bottom"",""color"":""light_gray""},{""pattern"":""minecraft:stripe_center"",""color"":""gray""},{""pattern"":""minecraft:border"",""color"":""light_gray""},{""pattern"":""minecraft:stripe_middle"",""color"":""black""},{""pattern"":""minecraft:half_horizontal"",""color"":""light_gray""},{""pattern"":""minecraft:circle"",""color"":""light_gray""},{""pattern"":""minecraft:border"",""color"":""black""}],tooltip_display={hidden_components:[""banner_patterns""]},rarity=""uncommon"",item_name={""translate"":""block.minecraft.ominous_banner""}]"
+,White Bed,white_bed
+,Light Gray Bed,light_gray_bed
+,Gray Bed,gray_bed
+,Black Bed,black_bed
+,Brown Bed,brown_bed
+,Red Bed,red_bed
+,Orange Bed,orange_bed
+,Yellow Bed,yellow_bed
+,Lime Bed,lime_bed
+,Green Bed,green_bed
+,Cyan Bed,cyan_bed
+,Light Blue Bed,light_blue_bed
+,Blue Bed,blue_bed
+,Purple Bed,purple_bed
+,Magenta Bed,magenta_bed
+,Pink Bed,pink_bed
+,White Concrete Powder,white_concrete_powder
+,Light Gray Concrete Powder,light_gray_concrete_powder
+,Gray Concrete Powder,gray_concrete_powder
+,Black Concrete Powder,black_concrete_powder
+,Brown Concrete Powder,brown_concrete_powder
+,Red Concrete Powder,red_concrete_powder
+,Orange Concrete Powder,orange_concrete_powder
+,Yellow Concrete Powder,yellow_concrete_powder
+,Lime Concrete Powder,lime_concrete_powder
+,Green Concrete Powder,green_concrete_powder
+,Cyan Concrete Powder,cyan_concrete_powder
+,Light Blue Concrete Powder,light_blue_concrete_powder
+,Blue Concrete Powder,blue_concrete_powder
+,Purple Concrete Powder,purple_concrete_powder
+,Magenta Concrete Powder,magenta_concrete_powder
+,Pink Concrete Powder,pink_concrete_powder
+,White Concrete,white_concrete
+,Light Gray Concrete,light_gray_concrete
+,Gray Concrete,gray_concrete
+,Black Concrete,black_concrete
+,Brown Concrete,brown_concrete
+,Red Concrete,red_concrete
+,Orange Concrete,orange_concrete
+,Yellow Concrete,yellow_concrete
+,Lime Concrete,lime_concrete
+,Green Concrete,green_concrete
+,Cyan Concrete,cyan_concrete
+,Light Blue Concrete,light_blue_concrete
+,Blue Concrete,blue_concrete
+,Purple Concrete,purple_concrete
+,Magenta Concrete,magenta_concrete
+,Pink Concrete,pink_concrete
+,Terracotta,terracotta
+,White Terracotta,white_terracotta
+,Light Gray Terracotta,light_gray_terracotta
+,Gray Terracotta,gray_terracotta
+,Black Terracotta,black_terracotta
+,Brown Terracotta,brown_terracotta
+,Red Terracotta,red_terracotta
+,Orange Terracotta,orange_terracotta
+,Yellow Terracotta,yellow_terracotta
+,Lime Terracotta,lime_terracotta
+,Green Terracotta,green_terracotta
+,Cyan Terracotta,cyan_terracotta
+,Light Blue Terracotta,light_blue_terracotta
+,Blue Terracotta,blue_terracotta
+,Purple Terracotta,purple_terracotta
+,Magenta Terracotta,magenta_terracotta
+,Pink Terracotta,pink_terracotta
+,White Glazed Terracotta,white_glazed_terracotta
+,Light Gray Glazed Terracotta,light_gray_glazed_terracotta
+,Gray Glazed Terracotta,gray_glazed_terracotta
+,Black Glazed Terracotta,black_glazed_terracotta
+,Brown Glazed Terracotta,brown_glazed_terracotta
+,Red Glazed Terracotta,red_glazed_terracotta
+,Orange Glazed Terracotta,orange_glazed_terracotta
+,Yellow Glazed Terracotta,yellow_glazed_terracotta
+,Lime Glazed Terracotta,lime_glazed_terracotta
+,Green Glazed Terracotta,green_glazed_terracotta
+,Cyan Glazed Terracotta,cyan_glazed_terracotta
+,Light Blue Glazed Terracotta,light_blue_glazed_terracotta
+,Blue Glazed Terracotta,blue_glazed_terracotta
+,Purple Glazed Terracotta,purple_glazed_terracotta
+,Magenta Glazed Terracotta,magenta_glazed_terracotta
+,Pink Glazed Terracotta,pink_glazed_terracotta
+,Glass,glass
+,White Stained Glass,white_stained_glass
+,Light Gray Stained Glass,light_gray_stained_glass
+,Gray Stained Glass,gray_stained_glass
+,Black Stained Glass,black_stained_glass
+,Brown Stained Glass,brown_stained_glass
+,Red Stained Glass,red_stained_glass
+,Orange Stained Glass,orange_stained_glass
+,Yellow Stained Glass,yellow_stained_glass
+,Lime Stained Glass,lime_stained_glass
+,Green Stained Glass,green_stained_glass
+,Cyan Stained Glass,cyan_stained_glass
+,Light Blue Stained Glass,light_blue_stained_glass
+,Blue Stained Glass,blue_stained_glass
+,Purple Stained Glass,purple_stained_glass
+,Magenta Stained Glass,magenta_stained_glass
+,Pink Stained Glass,pink_stained_glass
+,Tinted Glass,tinted_glass
+,Glass Pane,glass_pane
+,White Stained Glass Pane,white_stained_glass_pane
+,Light Gray Stained Glass Pane,light_gray_stained_glass_pane
+,Gray Stained Glass Pane,gray_stained_glass_pane
+,Black Stained Glass Pane,black_stained_glass_pane
+,Brown Stained Glass Pane,brown_stained_glass_pane
+,Red Stained Glass Pane,red_stained_glass_pane
+,Orange Stained Glass Pane,orange_stained_glass_pane
+,Yellow Stained Glass Pane,yellow_stained_glass_pane
+,Lime Stained Glass Pane,lime_stained_glass_pane
+,Green Stained Glass Pane,green_stained_glass_pane
+,Cyan Stained Glass Pane,cyan_stained_glass_pane
+,Light Blue Stained Glass Pane,light_blue_stained_glass_pane
+,Blue Stained Glass Pane,blue_stained_glass_pane
+,Purple Stained Glass Pane,purple_stained_glass_pane
+,Magenta Stained Glass Pane,magenta_stained_glass_pane
+,Pink Stained Glass Pane,pink_stained_glass_pane
+,Candle,candle
+,White Candle,white_candle
+,Light Gray Candle,light_gray_candle
+,Gray Candle,gray_candle
+,Black Candle,black_candle
+,Brown Candle,brown_candle
+,Red Candle,red_candle
+,Orange Candle,orange_candle
+,Yellow Candle,yellow_candle
+,Lime Candle,lime_candle
+,Green Candle,green_candle
+,Cyan Candle,cyan_candle
+,Light Blue Candle,light_blue_candle
+,Blue Candle,blue_candle
+,Purple Candle,purple_candle
+,Magenta Candle,magenta_candle
+,Pink Candle,pink_candle
+,White Harness,white_harness
+,Light Gray Harness,light_gray_harness
+,Gray Harness,gray_harness
+,Black Harness,black_harness
+,Brown Harness,brown_harness
+,Red Harness,red_harness
+,Orange Harness,orange_harness
+,Yellow Harness,yellow_harness
+,Lime Harness,lime_harness
+,Green Harness,green_harness
+,Cyan Harness,cyan_harness
+,Light Blue Harness,light_blue_harness
+,Blue Harness,blue_harness
+,Purple Harness,purple_harness
+,Magenta Harness,magenta_harness
+,Pink Harness,pink_harness
+,Bundle,bundle
+,White Bundle,white_bundle
+,Light Gray Bundle,light_gray_bundle
+,Gray Bundle,gray_bundle
+,Black Bundle,black_bundle
+,Brown Bundle,brown_bundle
+,Red Bundle,red_bundle
+,Orange Bundle,orange_bundle
+,Yellow Bundle,yellow_bundle
+,Lime Bundle,lime_bundle
+,Green Bundle,green_bundle
+,Cyan Bundle,cyan_bundle
+,Light Blue Bundle,light_blue_bundle
+,Blue Bundle,blue_bundle
+,Purple Bundle,purple_bundle
+,Magenta Bundle,magenta_bundle
+,Pink Bundle,pink_bundle
+,Shulker Box,shulker_box
+,White Shulker Box,white_shulker_box
+,Light Gray Shulker Box,light_gray_shulker_box
+,Gray Shulker Box,gray_shulker_box
+,Black Shulker Box,black_shulker_box
+,Brown Shulker Box,brown_shulker_box
+,Red Shulker Box,red_shulker_box
+,Orange Shulker Box,orange_shulker_box
+,Yellow Shulker Box,yellow_shulker_box
+,Lime Shulker Box,lime_shulker_box
+,Green Shulker Box,green_shulker_box
+,Cyan Shulker Box,cyan_shulker_box
+,Light Blue Shulker Box,light_blue_shulker_box
+,Blue Shulker Box,blue_shulker_box
+,Purple Shulker Box,purple_shulker_box
+,Magenta Shulker Box,magenta_shulker_box
+,Pink Shulker Box,pink_shulker_box
+,Crafting Table,crafting_table
+,Furnace,furnace
+,Blast Furnace,blast_furnace
+,Smoker,smoker
+,Chest,chest
+,Trapped Chest,trapped_chest
+,Ender Chest,ender_chest
+,Enchanting Table,enchanting_table
+,Anvil,anvil
+,Chipped Anvil,chipped_anvil
+,Damaged Anvil,damaged_anvil
+,Grindstone,grindstone
+,Stonecutter,stonecutter
+,Barrel,barrel
+,Composter,composter
+,Loom,loom
+,Cartography Table,cartography_table
+,Smithing Table,smithing_table
+,Fletching Table,fletching_table
+,Lectern,lectern
+,Jukebox ,jukebox
+,Bell,bell
+,Brewing Stand,brewing_stand
+,Cauldron,cauldron
+,Lodestone,lodestone
+,Respawn Anchor,respawn_anchor
+,Bee Nest,bee_nest
+,Beehive,beehive
+,Trial Spawner,trial_spawner
+,Vault,vault
+,Trial Key,trial_key
+,Ominous Trial Key,ominous_trial_key
+,Heavy Core,heavy_core
+,Armor Stand,armor_stand
+,Flower Pot,flower_pot
+,Decorated Pot,decorated_pot
+,Painting (Random variant),painting
+,Painting (Albanian),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:alban""}]"
+,Painting (de_aztec),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:aztec""}]"
+,Painting (de_aztec),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:aztec2""}]"
+,Painting (Kebab med tre pepperoni),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:kebab""}]"
+,Painting (Meditative),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:meditative""}]"
+,Painting (Paradisträd),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:plant""}]"
+,Painting (Target Successfully Bombed),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:bomb""}]"
+,Painting (Wasteland),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:wasteland""}]"
+,Painting (Graham),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:graham""}]"
+,Painting (Prairie Ride),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:prairie_ride""}]"
+,Painting (Wanderer),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:wanderer""}]"
+,Painting (Bonjour Monsieur Courbet),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:courbet""}]"
+,Painting (Creebet),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:creebet""}]"
+,Painting (Seaside),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:sea""}]"
+,Painting (sunset_dense),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:sunset""}]"
+,Painting (The Pool),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:pool""}]"
+,Painting (Baroque),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:baroque""}]"
+,Painting (Bust),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:bust""}]"
+,Painting (Earth),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:earth""}]"
+,Painting (Fire),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:fire""}]"
+,Painting (Humble),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:humble""}]"
+,Painting (Match),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:match""}]"
+,Painting (Skull and Roses),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:skull_and_roses""}]"
+,Painting (The Stage Is Set),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:stage""}]"
+,Painting (The void),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:void""}]"
+,Painting (Water),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:water""}]"
+,Painting (Wind),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:wind""}]"
+,Painting (Wither),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:wither""}]"
+,Painting (Bouquet),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:bouquet""}]"
+,Painting (Cavebird),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:cavebird""}]"
+,Painting (Cotán),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:cotan""}]"
+,Painting (Dennis),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:dennis""}]"
+,Painting (Endboss),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:endboss""}]"
+,Painting (Fern),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:fern""}]"
+,Painting (Owlemons),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:owlemons""}]"
+,Painting (Sunflowers),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:sunflowers""}]"
+,Painting (Tides),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:tides""}]"
+,Painting (Backyard),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:backyard""}]"
+,Painting (Pond),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:pond""}]"
+,Painting (Changing),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:changing""}]"
+,Painting (Fighters),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:fighters""}]"
+,Painting (Finding),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:finding""}]"
+,Painting (Lowmist),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:lowmist""}]"
+,Painting (Passage),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:passage""}]"
+,Painting (Kong),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:donkey_kong""}]"
+,Painting (Mortal Coil),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:skeleton""}]"
+,Painting (Orb),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:orb""}]"
+,Painting (Pigscene),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:pigscene""}]"
+,Painting (Pointer),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:pointer""}]"
+,Painting (Skull On Fire),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:burning_skull""}]"
+,Painting (Unpacked),"painting[entity_data={id:""minecraft:painting"",variant:""minecraft:unpacked""}]"
+,Item Frame,item_frame
+,Glow Item Frame,glow_item_frame
+,Ladder,ladder
+,Scaffolding,scaffolding
+,Cobweb,cobweb
+,Monster Spawner,spawner
+,End Crystal,end_crystal
+,Nether Star,nether_star
+,Beacon,beacon
+,Nautilus Shell,nautlius_shell
+,Heart of the Sea,heart_of_the_sea
+,Conduit,conduit
+,End Rod,end_rod
+,Torch,torch
+,Copper Torch,copper_torch
+,Soul Torch,soul_torch
+,Lantern,lantern
+,Soul Lantern,soul_lantern
+,Campfire,campfire
+,Soul Campfire,soul_campfire
+,Redstone Torch,redstone_torch
+,Redstone Repeater,repeater
+,Redstone Comparator,comparator
+,Lever,lever
+,Hopper,hopper
+,Observer,observer
+,Dispenser,dispenser
+,Dropper,dropper
+,Crafter,crafter
+,Piston,piston
+,Sticky Piston,sticky_piston
+,Note Block,note_block
+,TNT,tnt
+,Redstone Lamp,redstone_lamp
+,Daylight Detector,daylight_detector
+,Tripwire Hook,tripwire_hook
+,Target,target
+,Rail,rail
+,Powered Rail,powered_rail
+,Detector Rail,detector_rail
+,Activator Rail,activator_rail
+,Minecart,minecart
+,Minecart with Chest,chest_minecart
+,Minecart with Hopper,hopper_minecart
+,Minecart with Furnace,furnace_minecart
+,Minecart with TNT,tnt_minecart
+,Minecart with Command Block,command_block_minecart
+,Sculk Vein,sculk_vein
+,Sculk,sculk
+,Sculk Sensor,sculk_sensor
+,Calibrated Sculk Sensor,calibrated_sculk_sensor
+,Sculk Catalyst,sculk_catalyst
+,Sculk Shrieker,sculk_shrieker
+,Red Mushroom,red_mushroom
+,Brown Mushroom,brown_mushroom
+,Red Mushroom Block,red_mushroom_block
+,Brown Mushroom Block,brown_mushroom_block
+,Mushroom Stem,mushroom_stem
+,Oak Sapling,oak_sapling
+,Birch Sapling,birch_sapling
+,Spruce Sapling,spruce_sapling
+,Jungle Sapling,jungle_sapling
+,Dark Oak Sapling,dark_oak_sapling
+,Acacia Sapling,acacia_sapling
+,Mangrove Propagule,mangrove_propagule
+,Cherry Sapling,cherry_sapling
+,Pale Oak Sapling,pale_oak_sapling
+,Oak Leaves,oak_leaves
+,Birch Leaves,birch_leaves
+,Spruce Leaves,spruce_leaves
+,Jungle Leaves,jungle_leaves
+,Dark Oak Leaves,dark_oak_leaves
+,Acacia Leaves,acacia_leaves
+,Mangrove Leaves,mangrove_leaves
+,Cherry Leaves,cherry_leaves
+,Pale Oak Leaves,pale_oak_leaves
+,Azalea Leaves,azalea_leaves
+,Flowering Azalea Leaves,flowering_azalea_leaves
+,Leaf Litter,leaf_litter
+,Dandelion,dandelion
+,Poppy,poppy
+,Blue Orchid,blue_orchid
+,Allium,allium
+,Azure Bluet,azure_bluet
+,Red Tulip,red_tulip
+,Orange Tulip,orange_tulip
+,White Tulip,white_tulip
+,Pink Tulip,pink_tulip
+,Oxeye Daisy,oxeye_daisy
+,Cornflower,cornflower
+,Lily of the Valley,lily_of_the_valley
+,Open Eyeblossom,open_eyeblossom
+,Closed Eyeblossom,closed_eyeblossom
+,Wither Rose,wither_rose
+,Golden Dandelion,golden_dandelion
+,Sunflower,sunflower
+,Peony,lilac
+,Lilac,rose_bush
+,Rose Bush,peony
+,Pink Petals,pink_petals
+,Wildflowers,wildflowers
+,Short Grass,short_grass
+,Tall Grass,tall_grass
+,Fern,fern
+,Large Fern,large_fern
+,Bush,bush
+,Firefly Bush,firefly_bush
+,Short Dry Grass,short_dry_grass
+,Tall Dry Grass,tall_dry_grass
+,Dead Bush,dead_bush
+,Cactus Flower,cactus_flower
+,Cactus,cactus
+,Sugar Cane,sugar_cane
+,Bamboo,bamboo
+,Lily Pad,lily_pad
+,Vines,vine
+,Sweet Berries,sweet_berries
+,Glow Berries,glow_berries
+,Moss Block,moss_block
+,Moss Carpet,moss_carpet
+,Small Dripleaf,small_dripleaf
+,Big Dripleaf,big_dripleaf
+,Azalea,azalea
+,Flowering Azalea,flowering_azalea
+,Spore Blossom,spore_blossom
+,Pale Moss Block,pale_moss_block
+,Pale Moss Carpet,pale_moss_carpet
+,Pale Hanging Moss,pale_hanging_moss
+,Hanging Roots,hanging_roots
+,Mangrove Roots,mangrove_roots
+,Muddy Mangrove Roots,muddy_mangrove_roots
+,Glow Lichen,glow_lichen
+,Seagrass,seagrass
+,Sea Pickle,sea_pickle
+,Kelp,kelp
+,Dried Kelp,dried_kelp
+,Dried Kelp Block,dried_kelp_block
+,Tube Coral Block,tube_coral_block
+,Brain Coral Block,brain_coral_block
+,Bubble Coral Block,bubble_coral_block
+,Fire Coral Block,fire_coral_block
+,Horn Coral Block,horn_coral_block
+,Dead Tube Coral Block,dead_tube_coral_block
+,Dead Brain Coral Block,dead_brain_coral_block
+,Dead Bubble Coral Block,dead_bubble_coral_block
+,Dead Fire Coral Block,dead_fire_coral_block
+,Dead Horn Coral Block,dead_horn_coral_block
+,Tube Coral,tube_coral
+,Brain Coral,brain_coral
+,Bubble Coral,bubble_coral
+,Fire Coral,fire_coral
+,Horn Coral,horn_coral
+,Dead Tube Coral,dead_tube_coral
+,Dead Brain Coral,dead_brain_coral
+,Dead Bubble Coral,dead_bubble_coral
+,Dead Fire Coral,dead_fire_coral
+,Dead Horn Coral,dead_horn_coral
+,Tube Coral Fan,tube_coral_fan
+,Brain Coral Fan,brain_coral_fan
+,Bubble Coral Fan,bubble_coral_fan
+,Fire Coral Fan,fire_coral_fan
+,Horn Coral Fan,horn_coral_fan
+,Dead Tube Coral Fan,dead_tube_coral_fan
+,Dead Brain Coral Fan,dead_brain_coral_fan
+,Dead Bubble Coral Fan,dead_bubble_coral_fan
+,Dead Fire Coral Fan,dead_fire_coral_fan
+,Dead Horn Coral Fan,dead_horn_coral_fan
+,Torchflower Seeds,torchflower_seeds
+,Torchflower,torchflower
+,Pitcher Pod,pitcher_pod
+,Pitcher Plant,pitcher_plant
+,Wheat Seeds,wheat_seeds
+,Wheat,wheat
+,Hay Bale,hay_block
+,Beetroot Seeds,beetroot_seeds
+,Beetroot,beetroot
+,Carrot,carrot
+,Golden Carrot,golden_carrot
+,Potato,potato
+,Baked Potato,baked_potato
+,Poisonous Potato,poisonous_potato
+,Pumpkin Seeds,pumpkin_seeds
+,Pumpkin,pumpkin
+,Carved Pumpkin,carved_pumpkin
+,Jack o'Lantern,jack_o_lantern
+,Melon Seeds,melon_seeds
+,Melon,melon
+,Melon Slice,melon_slice
+,Glistering Melon Slice,glistering_melon_slice
+,Cocoa Beans,cocoa_beans
+,Apple,apple
+,Golden Apple,golden_apple
+,Enchanted Golden Apple,enchanted_golden_apple
+,Bread,bread
+,Pumpkin Pie,pumpkin_pie
+,Cookie,cookie
+,Cake,cake
+,Raw Rabbit,rabbit
+,Cooked Rabbit,cooked_rabbit
+,Raw Mutton,mutton
+,Cooked Mutton,cooked_mutton
+,Raw Chicken,chicken
+,Cooked Chicken,cooked_chicken
+,Raw Porkchop,porkchop
+,Cooked Porkchop,cooked_porkchop
+,Raw Beef,beef
+,Steak,cooked_beef
+,Raw Cod,cod
+,Cooked Cod,cooked_cod
+,Raw Salmon,salmon
+,Cooked Salmon,cooked_salmon
+,Tropical Fish,tropical_fish
+,Pufferfish,pufferfish
+,Bowl,bowl
+,Mushroom Stew,mushroom_stew
+,Rabbit Stew,rabbit_stew
+,Beetroot Soup,beetroot_soup
+,Suspicious Stew,suspicious_stew
+,Suspicious Stew (Blindness),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:blindness"",duration:220}]]"
+,Suspicious Stew (Fire Resistance),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:fire_resistance"",duration:60}]]"
+,Suspicious Stew (Jump Boost),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:jump_boost"",duration:100}]]"
+,Suspicious Stew (Night Vision),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:night_vision"",duration:100}]]"
+,Suspicious Stew (Nausea),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:nausea"",duration:140}]]"
+,Suspicious Stew (Poison),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:poison"",duration:220}]]"
+,Suspicious Stew (Regeneration),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:regeneration"",duration:140}]]"
+,Suspicious Stew (Saturation),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:saturation"",duration:7}]]"
+,Suspicious Stew (Weakness),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:weakness"",duration:140}]]"
+,Suspicious Stew (Wither),"suspicious_stew[suspicious_stew_effects=[{id:""minecraft:wither"",duration:140}]]"
+,Leather,leather
+,Rabbit Hide,rabbit_hide
+,Rabbit's Foot,rabbit_foot
+,Ink Sac,ink_sac
+,Glow Ink Sac,glow_ink_sac
+,Feather,feather
+,Egg,egg
+,Blue Egg,blue_egg
+,Brown Egg,brown_egg
+,Frogspawn,frogspawn
+,Armadillo Scute,armadillo_scute
+,Scute,scute
+,Turtle Egg,turtle_egg
+,Sniffer Egg,sniffer_egg
+,Honey Bottle,honey_bottle
+,Honey Block,honey_block
+,Honeycomb,honeycomb
+,Honeycomb Block,honeycomb_block
+,Slime Ball,slime_ball
+,Slime Block,slime_block
+,Pearlescent Froglight,pearlescent_froglight
+,Verdant Froglight,verdant_froglight
+,Ochre Froglight,ochre_froglight
+,String,string
+,Rotten Flesh,rotten_flesh
+,Arrow,arrow
+,Uncraftable Tipped Arrow,tipped_arrow
+,Arrow of Splashing,"tipped_arrow[potion_contents={potion:""minecraft:water""}]"
+,Tipped Arrow (Awkward),"tipped_arrow[potion_contents={potion:""minecraft:awkward""}]"
+,Tipped Arrow (Mundane),"tipped_arrow[potion_contents={potion:""minecraft:mundane""}]"
+,Tipped Arrow (Thick),"tipped_arrow[potion_contents={potion:""minecraft:thick""}]"
+,Arrow of Healing,"tipped_arrow[potion_contents={potion:""minecraft:healing""}]"
+,Arrow of Healing (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_healing""}]"
+,Arrow of Regeneration,"tipped_arrow[potion_contents={potion:""minecraft:regeneration""}]"
+,Arrow of Regeneration (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_regeneration""}]"
+,Arrow of Regeneration (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_regeneration""}]"
+,Arrow of Strength,"tipped_arrow[potion_contents={potion:""minecraft:strength""}]"
+,Arrow of Strength (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_strength""}]"
+,Arrow of Strength (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_strength""}]"
+,Arrow of Swiftness,"tipped_arrow[potion_contents={potion:""minecraft:swiftness""}]"
+,Arrow of Swiftness (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_swiftness""}]"
+,Arrow of Swiftness (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_swiftness""}]"
+,Arrow of Leaping,"tipped_arrow[potion_contents={potion:""minecraft:leaping""}]"
+,Arrow of Leaping (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_leaping""}]"
+,Arrow of Leaping (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_leaping""}]"
+,Arrow of Luck,"tipped_arrow[potion_contents={potion:""minecraft:luck""}]"
+,Arrow of Night Vision,"tipped_arrow[potion_contents={potion:""minecraft:night_vision""}]"
+,Arrow of Night Vision (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_night_vision""}]"
+,Arrow of Invisibility,"tipped_arrow[potion_contents={potion:""minecraft:invisibility""}]"
+,Arrow of Invisibility (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_invisibility""}]"
+,Arrow of Water Breathing,"tipped_arrow[potion_contents={potion:""minecraft:water_breathing""}]"
+,Arrow of Water Breathing (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_water_breathing""}]"
+,Arrow of Fire Resistance,"tipped_arrow[potion_contents={potion:""minecraft:fire_resistance""}]"
+,Arrow of Fire Resistance (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_fire_resistance""}]"
+,Arrow of Slow Falling,"tipped_arrow[potion_contents={potion:""minecraft:slow_falling""}]"
+,Arrow of Slow Falling (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_slow_falling""}]"
+,Arrow of the Turtle Master,"tipped_arrow[potion_contents={potion:""minecraft:turtle_master""}]"
+,Arrow of the Turtle Master (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_turtle_master""}]"
+,Arrow of the Turtle Master (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_turtle_master""}]"
+,Arrow of Harming,"tipped_arrow[potion_contents={potion:""minecraft:harming""}]"
+,Arrow of Harming (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_harming""}]"
+,Arrow of Poison,"tipped_arrow[potion_contents={potion:""minecraft:poison""}]"
+,Arrow of Poison (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_poison""}]"
+,Arrow of Poison (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_poison""}]"
+,Arrow of Weakness,"tipped_arrow[potion_contents={potion:""minecraft:weakness""}]"
+,Arrow of Weakness (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_weakness""}]"
+,Arrow of Slowness,"tipped_arrow[potion_contents={potion:""minecraft:slowness""}]"
+,Arrow of Slowness (Long),"tipped_arrow[potion_contents={potion:""minecraft:long_slowness""}]"
+,Arrow of Slowness (Strong),"tipped_arrow[potion_contents={potion:""minecraft:strong_slowness""}]"
+,Arrow of Infestation,"tipped_arrow[potion_contents={potion:""minecraft:infestated""}]"
+,Arrow of Oozing,"tipped_arrow[potion_contents={potion:""minecraft:oozing""}]"
+,Arrow of Weaving,"tipped_arrow[potion_contents={potion:""minecraft:weaving""}]"
+,Arrow of Wind Charging,"tipped_arrow[potion_contents={potion:""minecraft:wind_charged""}]"
+,Spectral Arrow,spectral_arrow
+,Bone,bone
+,Bone Meal,bone_meal
+,Bone Block,bone_block
+,Gunpowder,gunpowder
+,Sugar,sugar
+,Spider Eye,spider_eye
+,Fermented Spider Eye,fermented_spider_eye
+,Ender Pearl,ender_pearl
+,Eye of Ender,ender_eye
+,Shulker Shell,shulker_shell
+,Blaze Rod,blaze_rod
+,Blaze Powder,blaze_powder
+,Magma Cream,magma_cream
+,Breeze Rod,breeze_rod
+,Wind Charge,wind_charge
+,Ghast Tear,ghast_tear
+,Dried Ghast,dried_ghast
+,Phantom Membrane,phantom_membrane
+,Player Head,player_head
+,Wither Skeleton Skull,wither_skeleton_skull
+,Zombie Head,zombie_head
+,Skeleton Skull,skeleton_skull
+,Creeper Head,creeper_head
+,Piglin Head,piglin_head
+,Dragon Head,dragon_head
+,Dragon Egg,dragon_egg
+,Goat Horn,goat_horn
+,Goat Horn (Ponder),"goat_horn[instrument=""minecraft:ponder_goat_horn""]"
+,Goat Horn (Sing),"goat_horn[instrument=""minecraft:sing_goat_horn""]"
+,Goat Horn (Seek),"goat_horn[instrument=""minecraft:seek_goat_horn""]"
+,Goat Horn (Feel),"goat_horn[instrument=""minecraft:feel_goat_horn""]"
+,Goat Horn (Admire),"goat_horn[instrument=""minecraft:admire_goat_horn""]"
+,Goat Horn (Call),"goat_horn[instrument=""minecraft:call_goat_horn""]"
+,Goat Horn (Yearn),"goat_horn[instrument=""minecraft:yearn_goat_horn""]"
+,Goat Horn (Dream),"goat_horn[instrument=""minecraft:dream_goat_horn""]"
+,Music Disc (C418 - 13),music_disc_13
+,Music Disc (C418 - cat),music_disc_cat
+,Music Disc (C418 - blocks),music_disc_blocks
+,Music Disc (C418 - chirp),music_disc_chirp
+,Music Disc (C418 - far),music_disc_far
+,Music Disc (C418 - mall),music_disc_mall
+,Music Disc (C418 - mellohi),music_disc_mellohi
+,Music Disc (C418 - stal),music_disc_stal
+,Music Disc (C418 - strad),music_disc_strad
+,Music Disc (C418 - ward),music_disc_ward
+,Music Disc (C418 - 11),music_disc_11
+,Music Disc (C418 - wait),music_disc_wait
+,Music Disc (Lena Raine - Pigstep),music_disc_pigstep
+,Music Disc (Lena Raine - otherside),music_disc_otherside
+,Music Disc (Samuel Åberg - 5),music_disc_5
+,Music Disc (Aaron Cherof - Relic),music_disc_relic
+,Music Disc (Aaron Cherof - Precipice),music_disc_precipice
+,Music Disc (Lena Raine - Creator),music_disc_creator
+,Music Disc (Lena Raine - Creator (Music Box)),music_disc_creator_music_box
+,Music Disc (Amos Roddy - Tears),music_disc_tears
+,Music Disc (Hyper Potions - Lava Chicken),music_disc_lava_chicken
+,Disc Fragment,disc_fragment_5
+,Echo Shard,echo_shard
+,Stick,stick
+,Charcoal,charcoal
+,Fire Charge,fire_charge
+,Paper,paper
+,Book,book
+,Enchanted Book,enchanted_book
+,Enchanted Book (Mending),"enchanted_book[stored_enchantments={""minecraft:mending"":1}]"
+,Enchanted Book (Unbreaking I),"enchanted_book[stored_enchantments={""minecraft:unbreaking"":1}]"
+,Enchanted Book (Unbreaking II),"enchanted_book[stored_enchantments={""minecraft:unbreaking"":2}]"
+,Enchanted Book (Unbreaking III),"enchanted_book[stored_enchantments={""minecraft:unbreaking"":3}]"
+,Enchanted Book (Protection I),"enchanted_book[stored_enchantments={""minecraft:protection"":1}]"
+,Enchanted Book (Protection II),"enchanted_book[stored_enchantments={""minecraft:protection"":2}]"
+,Enchanted Book (Protection III,"enchanted_book[stored_enchantments={""minecraft:protection"":3}]"
+,Enchanted Book (Protection IV),"enchanted_book[stored_enchantments={""minecraft:protection"":4}]"
+,Enchanted Book (Blast Protection I),"enchanted_book[stored_enchantments={""minecraft:blast_protection"":1}]"
+,Enchanted Book (Blast Protection II),"enchanted_book[stored_enchantments={""minecraft:blast_protection"":2}]"
+,Enchanted Book (Blast Protection III),"enchanted_book[stored_enchantments={""minecraft:blast_protection"":3}]"
+,Enchanted Book (Blast Protection IV),"enchanted_book[stored_enchantments={""minecraft:blast_protection"":4}]"
+,Enchanted Book (Fire Protection I),"enchanted_book[stored_enchantments={""minecraft:fire_protection"":1}]"
+,Enchanted Book (Fire Protection II),"enchanted_book[stored_enchantments={""minecraft:fire_protection"":2}]"
+,Enchanted Book (Fire Protection III),"enchanted_book[stored_enchantments={""minecraft:fire_protection"":3}]"
+,Enchanted Book (Fire Protection IV),"enchanted_book[stored_enchantments={""minecraft:fire_protection"":4}]"
+,Enchanted Book (Projectile Protection I),"enchanted_book[stored_enchantments={""minecraft:projectile_protection"":1}]"
+,Enchanted Book (Projectile Protection II),"enchanted_book[stored_enchantments={""minecraft:projectile_protection"":2}]"
+,Enchanted Book (Projectile Protection III),"enchanted_book[stored_enchantments={""minecraft:projectile_protection"":3}]"
+,Enchanted Book (Projectile Protection IV),"enchanted_book[stored_enchantments={""minecraft:projectile_protection"":4}]"
+,Enchanted Book (Thorns I),"enchanted_book[stored_enchantments={""minecraft:thorns"":1}]"
+,Enchanted Book (Thorns II),"enchanted_book[stored_enchantments={""minecraft:thorns"":2}]"
+,Enchanted Book (Thorns III),"enchanted_book[stored_enchantments={""minecraft:thorns"":3}]"
+,Enchanted Book (Respiration I),"enchanted_book[stored_enchantments={""minecraft:respiration"":1}]"
+,Enchanted Book (Respiration II),"enchanted_book[stored_enchantments={""minecraft:respiration"":2}]"
+,Enchanted Book (Respiration III),"enchanted_book[stored_enchantments={""minecraft:respiration"":3}]"
+,Enchanted Book (Aqua Affinity),"enchanted_book[stored_enchantments={""minecraft:aqua_affinity"":1}]"
+,Enchanted Book (Swift Sneak I),"enchanted_book[stored_enchantments={""minecraft:swift_sneak"":1}]"
+,Enchanted Book (Swift Sneak II),"enchanted_book[stored_enchantments={""minecraft:swift_sneak"":2}]"
+,Enchanted Book (Swift Sneak III),"enchanted_book[stored_enchantments={""minecraft:swift_sneak"":3}]"
+,Enchanted Book (Feather Falling I),"enchanted_book[stored_enchantments={""minecraft:feather_falling"":1}]"
+,Enchanted Book (Feather Falling II),"enchanted_book[stored_enchantments={""minecraft:feather_falling"":2}]"
+,Enchanted Book (Feather Falling III),"enchanted_book[stored_enchantments={""minecraft:feather_falling"":3}]"
+,Enchanted Book (Feather Falling IV),"enchanted_book[stored_enchantments={""minecraft:feather_falling"":4}]"
+,Enchanted Book (Soul Speed I),"enchanted_book[stored_enchantments={""minecraft:soul_speed"":1}]"
+,Enchanted Book (Soul Speed II),"enchanted_book[stored_enchantments={""minecraft:soul_speed"":2}]"
+,Enchanted Book (Soul Speed III),"enchanted_book[stored_enchantments={""minecraft:soul_speed"":3}]"
+,Enchanted Book (Depth Strider I),"enchanted_book[stored_enchantments={""minecraft:depth_strider"":1}]"
+,Enchanted Book (Depth Strider II),"enchanted_book[stored_enchantments={""minecraft:depth_strider"":2}]"
+,Enchanted Book (Depth Strider III),"enchanted_book[stored_enchantments={""minecraft:depth_strider"":3}]"
+,Enchanted Book (Frost Walker I),"enchanted_book[stored_enchantments={""minecraft:frost_walker"":1}]"
+,Enchanted Book (Frost Walker II),"enchanted_book[stored_enchantments={""minecraft:frost_walker"":2}]"
+,Enchanted Book (Sharpness I),"enchanted_book[stored_enchantments={""minecraft:sharpness"":1}]"
+,Enchanted Book (Sharpness II),"enchanted_book[stored_enchantments={""minecraft:sharpness"":2}]"
+,Enchanted Book (Sharpness III),"enchanted_book[stored_enchantments={""minecraft:sharpness"":3}]"
+,Enchanted Book (Sharpness IV),"enchanted_book[stored_enchantments={""minecraft:sharpness"":4}]"
+,Enchanted Book (Sharpness V),"enchanted_book[stored_enchantments={""minecraft:sharpness"":5}]"
+,Enchanted Book (Smite I),"enchanted_book[stored_enchantments={""minecraft:smite"":1}]"
+,Enchanted Book (Smite II),"enchanted_book[stored_enchantments={""minecraft:smite"":2}]"
+,Enchanted Book (Smite III),"enchanted_book[stored_enchantments={""minecraft:smite"":3}]"
+,Enchanted Book (Smite IV),"enchanted_book[stored_enchantments={""minecraft:smite"":4}]"
+,Enchanted Book (Smite V),"enchanted_book[stored_enchantments={""minecraft:smite"":5}]"
+,Enchanted Book (Bane of Arthropods I),"enchanted_book[stored_enchantments={""minecraft:bane_of_arthropods"":1}]"
+,Enchanted Book (Bane of Arthropods II),"enchanted_book[stored_enchantments={""minecraft:bane_of_arthropods"":2}]"
+,Enchanted Book (Bane of Arthropods III),"enchanted_book[stored_enchantments={""minecraft:bane_of_arthropods"":3}]"
+,Enchanted Book (Bane of Arthropods IV),"enchanted_book[stored_enchantments={""minecraft:bane_of_arthropods"":4}]"
+,Enchanted Book (Bane of Arthropods V),"enchanted_book[stored_enchantments={""minecraft:bane_of_arthropods"":5}]"
+,Enchanted Book (Looting I),"enchanted_book[stored_enchantments={""minecraft:looting"":1}]"
+,Enchanted Book (Looting II),"enchanted_book[stored_enchantments={""minecraft:looting"":2}]"
+,Enchanted Book (Looting III),"enchanted_book[stored_enchantments={""minecraft:looting"":3}]"
+,Enchanted Book (Sweeping Edge I),"enchanted_book[stored_enchantments={""minecraft:sweeping_edge"":1}]"
+,Enchanted Book (Sweeping Edge II),"enchanted_book[stored_enchantments={""minecraft:sweeping_edge"":2}]"
+,Enchanted Book (Sweeping Edge III),"enchanted_book[stored_enchantments={""minecraft:sweeping_edge"":3}]"
+,Enchanted Book (Fire Aspect I),"enchanted_book[stored_enchantments={""minecraft:fire_aspect"":1}]"
+,Enchanted Book (Fire Aspect II),"enchanted_book[stored_enchantments={""minecraft:fire_aspect"":2}]"
+,Enchanted Book (Knockback I),"enchanted_book[stored_enchantments={""minecraft:knockback"":1}]"
+,Enchanted Book (Knockback II),"enchanted_book[stored_enchantments={""minecraft:knockback"":2}]"
+,Enchanted Book (Lunge I),"enchanted_book[stored_enchantments={""minecraft:lunge"":1}]"
+,Enchanted Book (Lunge II),"enchanted_book[stored_enchantments={""minecraft:lunge"":2}]"
+,Enchanted Book (Lunge III),"enchanted_book[stored_enchantments={""minecraft:lunge"":3}]"
+,Enchanted Book (Efficiency I),"enchanted_book[stored_enchantments={""minecraft:efficiency"":1}]"
+,Enchanted Book (Efficiency II),"enchanted_book[stored_enchantments={""minecraft:efficiency"":2}]"
+,Enchanted Book (Efficiency III),"enchanted_book[stored_enchantments={""minecraft:efficiency"":3}]"
+,Enchanted Book (Efficiency IV),"enchanted_book[stored_enchantments={""minecraft:efficiency"":4}]"
+,Enchanted Book (Efficiency V),"enchanted_book[stored_enchantments={""minecraft:efficiency"":5}]"
+,Enchanted Book (Fortune I),"enchanted_book[stored_enchantments={""minecraft:fortune"":1}]"
+,Enchanted Book (Fortune II),"enchanted_book[stored_enchantments={""minecraft:fortune"":2}]"
+,Enchanted Book (Fortune III),"enchanted_book[stored_enchantments={""minecraft:fortune"":3}]"
+,Enchanted Book (Silk Touch),"enchanted_book[stored_enchantments={""minecraft:silk_touch"":1}]"
+,Enchanted Book (Power I),"enchanted_book[stored_enchantments={""minecraft:power"":1}]"
+,Enchanted Book (Power II),"enchanted_book[stored_enchantments={""minecraft:power"":2}]"
+,Enchanted Book (Power III),"enchanted_book[stored_enchantments={""minecraft:power"":3}]"
+,Enchanted Book (Power IV),"enchanted_book[stored_enchantments={""minecraft:power"":4}]"
+,Enchanted Book (Power V),"enchanted_book[stored_enchantments={""minecraft:power"":5}]"
+,Enchanted Book (Punch I),"enchanted_book[stored_enchantments={""minecraft:punch"":1}]"
+,Enchanted Book (Punch II),"enchanted_book[stored_enchantments={""minecraft:punch"":2}]"
+,Enchanted Book (Flame),"enchanted_book[stored_enchantments={""minecraft:flame"":1}]"
+,Enchanted Book (Infinity),"enchanted_book[stored_enchantments={""minecraft:infinity"":1}]"
+,Enchanted Book (Piercing I),"enchanted_book[stored_enchantments={""minecraft:piercing"":1}]"
+,Enchanted Book (Piercing II),"enchanted_book[stored_enchantments={""minecraft:piercing"":2}]"
+,Enchanted Book (Piercing III),"enchanted_book[stored_enchantments={""minecraft:piercing"":3}]"
+,Enchanted Book (Piercing IV),"enchanted_book[stored_enchantments={""minecraft:piercing"":4}]"
+,Enchanted Book (Quick Charge I),"enchanted_book[stored_enchantments={""minecraft:quick_charge"":1}]"
+,Enchanted Book (Quick Charge II),"enchanted_book[stored_enchantments={""minecraft:quick_charge"":2}]"
+,Enchanted Book (Quick Charge III),"enchanted_book[stored_enchantments={""minecraft:quick_charge"":3}]"
+,Enchanted Book (Multishot),"enchanted_book[stored_enchantments={""minecraft:multishot"":1}]"
+,Enchanted Book (Impaling I),"enchanted_book[stored_enchantments={""minecraft:impaling"":1}]"
+,Enchanted Book (Impaling II),"enchanted_book[stored_enchantments={""minecraft:impaling"":2}]"
+,Enchanted Book (Impaling III),"enchanted_book[stored_enchantments={""minecraft:impaling"":3}]"
+,Enchanted Book (Impaling IV),"enchanted_book[stored_enchantments={""minecraft:impaling"":4}]"
+,Enchanted Book (Impaling V),"enchanted_book[stored_enchantments={""minecraft:impaling"":5}]"
+,Enchanted Book (Riptide I),"enchanted_book[stored_enchantments={""minecraft:riptide"":1}]"
+,Enchanted Book (Riptide II),"enchanted_book[stored_enchantments={""minecraft:riptide"":2}]"
+,Enchanted Book (Riptide III),"enchanted_book[stored_enchantments={""minecraft:riptide"":3}]"
+,Enchanted Book (Loyalty I),"enchanted_book[stored_enchantments={""minecraft:loyalty"":1}]"
+,Enchanted Book (Loyalty II),"enchanted_book[stored_enchantments={""minecraft:loyalty"":2}]"
+,Enchanted Book (Loyalty III),"enchanted_book[stored_enchantments={""minecraft:loyalty"":3}]"
+,Enchanted Book (Channeling),"enchanted_book[stored_enchantments={""minecraft:channeling"":1}]"
+,Enchanted Book (Density I),"enchanted_book[stored_enchantments={""minecraft:density"":1}]"
+,Enchanted Book (Density II),"enchanted_book[stored_enchantments={""minecraft:density"":2}]"
+,Enchanted Book (Density III),"enchanted_book[stored_enchantments={""minecraft:density"":3}]"
+,Enchanted Book (Density IV),"enchanted_book[stored_enchantments={""minecraft:density"":4}]"
+,Enchanted Book (Density V),"enchanted_book[stored_enchantments={""minecraft:density"":5}]"
+,Enchanted Book (Breach I),"enchanted_book[stored_enchantments={""minecraft:breach"":1}]"
+,Enchanted Book (Breach II),"enchanted_book[stored_enchantments={""minecraft:breach"":2}]"
+,Enchanted Book (Breach III),"enchanted_book[stored_enchantments={""minecraft:breach"":3}]"
+,Enchanted Book (Breach IV),"enchanted_book[stored_enchantments={""minecraft:breach"":4}]"
+,Enchanted Book (Wind Burst I),"enchanted_book[stored_enchantments={""minecraft:wind_burst"":1}]"
+,Enchanted Book (Wind Burst II),"enchanted_book[stored_enchantments={""minecraft:wind_burst"":2}]"
+,Enchanted Book (Wind Burst III),"enchanted_book[stored_enchantments={""minecraft:wind_burst"":3}]"
+,Enchanted Book (Luck of the Sea I),"enchanted_book[stored_enchantments={""minecraft:luck_of_the_sea"":1}]"
+,Enchanted Book (Luck of the Sea II),"enchanted_book[stored_enchantments={""minecraft:luck_of_the_sea"":2}]"
+,Enchanted Book (Luck of the Sea III),"enchanted_book[stored_enchantments={""minecraft:luck_of_the_sea"":3}]"
+,Enchanted Book (Lure I),"enchanted_book[stored_enchantments={""minecraft:lure"":1}]"
+,Enchanted Book (Lure II),"enchanted_book[stored_enchantments={""minecraft:lure"":2}]"
+,Enchanted Book (Lure III),"enchanted_book[stored_enchantments={""minecraft:lure"":3}]"
+,Enchanted Book (Curse of Binding),"enchanted_book[stored_enchantments={""minecraft:binding_curse"":1}]"
+,Enchanted Book (Curse of Vanishing),"enchanted_book[stored_enchantments={""minecraft:vanishing_curse"":1}]"
+,Bookshelf,bookshelf
+,Chiseled Bookshelf,chiseled_bookshelf
+,Book and Quill,writable_book
+,Written Book,written_book
+,Knowledge Book,knowledge_book
+,Empty Map,map
+,Map,filled_map
+,Thing Banner Pattern,mojang_banner_pattern
+,Skull Charge Banner Pattern,skull_banner_pattern
+,Creeper Charge Banner Pattern,creeper_banner_pattern
+,Flower Charge Banner Pattern,flower_banner_pattern
+,Globe Banner Pattern,globe_banner_pattern
+,Bordure Indented Banner Pattern,bordure_indented_banner_pattern
+,Field Masoned Banner Pattern,field_masoned_banner_pattern
+,Snout Banner Pattern,piglin_banner_pattern
+,Flow Banner Pattern,flow_banner_pattern
+,Guster Banner Pattern,guster_banner_pattern
+,Angler Pottery Sherd,angler_pottery_sherd
+,Archer Pottery Sherd,archer_pottery_sherd
+,Arms Up Pottery Sherd,arms_up_pottery_sherd
+,Blade Pottery Sherd,blade_pottery_sherd
+,Brewer Pottery Sherd,brewer_pottery_sherd
+,Burn Pottery Sherd,burn_pottery_sherd
+,Danger Pottery Sherd,danger_pottery_sherd
+,Explorer Pottery Sherd,explorer_pottery_sherd
+,Friend Pottery Sherd,friend_pottery_sherd
+,Flow Pottery Sherd,flow_pottery_sherd
+,Guster Pottery Sherd,guster_pottery_sherd
+,Heart Pottery Sherd,heart_pottery_sherd
+,Heartbreak Pottery Sherd,heartbreak_pottery_sherd
+,Howl Pottery Sherd,howl_pottery_sherd
+,Miner Pottery Sherd,miner_pottery_sherd
+,Mourner Pottery Sherd,mourner_pottery_sherd
+,Plenty Pottery Sherd,plenty_pottery_sherd
+,Prize Pottery Sherd,prize_pottery_sherd
+,Scrape Pottery Sherd,scrape_pottery_sherd
+,Sheaf Pottery Sherd,sheaf_pottery_sherd
+,Shelter Pottery Sherd,shelter_pottery_sherd
+,Skull Pottery Sherd,skull_pottery_sherd
+,Snort Pottery Sherd,snort_pottery_sherd
+,Netherite Upgrade,netherite_upgrade_smithing_template
+,Bolt Armor Trim,bolt_armor_trim_smithing_template
+,Coast Armor Trim,coast_armor_trim_smithing_template
+,Dune Armor Trim,dune_armor_trim_smithing_template
+,Eye Armor Trim,eye_armor_trim_smithing_template
+,Flow Armor Trim,flow_armor_trim_smithing_template
+,Host Armor Trim,host_armor_trim_smithing_template
+,Raiser Armor Trim,raiser_armor_trim_smithing_template
+,Rib Armor Trim,rib_armor_trim_smithing_template
+,Sentry Armor Trim,sentry_armor_trim_smithing_template
+,Shaper Armor Trim,shaper_armor_trim_smithing_template
+,Silence Armor Trim,silence_armor_trim_smithing_template
+,Snout Armor Trim,snout_armor_trim_smithing_template
+,Spire Armor Trim,spire_armor_trim_smithing_template
+,Tide Armor Trim,tide_armor_trim_smithing_template
+,Vex Armor Trim,vex_armor_trim_smithing_template
+,Ward Armor Trim,ward_armor_trim_smithing_template
+,Wayfinder Armor Trim,wayfinder_armor_trim_smithing_template
+,Wild Armor Trim,wild_armor_trim_smithing_template
+,Firework Star,firework_star
+,Firework Rocket,firework_rocket
+,Firework Rocket (Flight Duration: 1),firework_rocket[fireworks={flight_duration:1}]
+,Firework Rocket (Flight Duration: 2),firework_rocket[fireworks={flight_duration:2}]
+,Firework Rocket (Flight Duration: 3),firework_rocket[fireworks={flight_duration:3}]
+,Glass Bottle,glass_bottle
+,Bottle o' Enchanting,experience_bottle
+,Ominous Bottle (Bad Omen),ominous_bottle
+,Ominous Bottle (Bad Omen II),ominous_bottle[ominous_bottle_amplifier=1]
+,Ominous Bottle (Bad Omen III),ominous_bottle[ominous_bottle_amplifier=2]
+,Ominous Bottle (Bad Omen IV),ominous_bottle[ominous_bottle_amplifier=3]
+,Ominous Bottle (Bad Omen V),ominous_bottle[ominous_bottle_amplifier=4]
+,Dragon's Breath,dragon_breath
+,Water Bottle,"potion[potion_contents={potion:""minecraft:water""}]"
+,Uncraftable Potion,potion
+,Awkward Potion,"potion[potion_contents={potion:""minecraft:awkward""}]"
+,Mundane Potion,"potion[potion_contents={potion:""minecraft:mundane""}]"
+,Thick Potion,"potion[potion_contents={potion:""minecraft:thick""}]"
+,Potion of Healing,"potion[potion_contents={potion:""minecraft:healing""}]"
+,Potion of Healing (Strong),"potion[potion_contents={potion:""minecraft:strong_healing""}]"
+,Potion of Regeneration,"potion[potion_contents={potion:""minecraft:regeneration""}]"
+,Potion of Regeneration (Long),"potion[potion_contents={potion:""minecraft:long_regeneration""}]"
+,Potion of Regeneration (Strong),"potion[potion_contents={potion:""minecraft:strong_regeneration""}]"
+,Potion of Strength,"potion[potion_contents={potion:""minecraft:strength""}]"
+,Potion of Strength (Long),"potion[potion_contents={potion:""minecraft:long_strength""}]"
+,Potion of Strength (Strong),"potion[potion_contents={potion:""minecraft:strong_strength""}]"
+,Potion of Swiftness,"potion[potion_contents={potion:""minecraft:swiftness""}]"
+,Potion of Swiftness (Long),"potion[potion_contents={potion:""minecraft:long_swiftness""}]"
+,Potion of Swiftness (Strong),"potion[potion_contents={potion:""minecraft:strong_swiftness""}]"
+,Potion of Leaping,"potion[potion_contents={potion:""minecraft:leaping""}]"
+,Potion of Leaping (Long),"potion[potion_contents={potion:""minecraft:long_leaping""}]"
+,Potion of Leaping (Strong),"potion[potion_contents={potion:""minecraft:strong_leaping""}]"
+,Potion of Luck,"potion[potion_contents={potion:""minecraft:luck""}]"
+,Potion of Night Vision,"potion[potion_contents={potion:""minecraft:night_vision""}]"
+,Potion of Night Vision (Long),"potion[potion_contents={potion:""minecraft:long_night_vision""}]"
+,Potion of Invisibility,"potion[potion_contents={potion:""minecraft:invisibility""}]"
+,Potion of Invisibility (Long),"potion[potion_contents={potion:""minecraft:long_invisibility""}]"
+,Potion of Water Breathing,"potion[potion_contents={potion:""minecraft:water_breathing""}]"
+,Potion of Water Breathing (Long),"potion[potion_contents={potion:""minecraft:long_water_breathing""}]"
+,Potion of Fire Resistance,"potion[potion_contents={potion:""minecraft:fire_resistance""}]"
+,Potion of Fire Resistance (Long),"potion[potion_contents={potion:""minecraft:long_fire_resistance""}]"
+,Potion of Slow Falling,"potion[potion_contents={potion:""minecraft:slow_falling""}]"
+,Potion of Slow Falling (Long),"potion[potion_contents={potion:""minecraft:long_slow_falling""}]"
+,Potion of the Turtle Master,"potion[potion_contents={potion:""minecraft:turtle_master""}]"
+,Potion of the Turtle Master (Long),"potion[potion_contents={potion:""minecraft:long_turtle_master""}]"
+,Potion of the Turtle Master (Strong),"potion[potion_contents={potion:""minecraft:strong_turtle_master""}]"
+,Potion of Harming,"potion[potion_contents={potion:""minecraft:harming""}]"
+,Potion of Harming (Strong),"potion[potion_contents={potion:""minecraft:strong_harming""}]"
+,Potion of Poison,"potion[potion_contents={potion:""minecraft:poison""}]"
+,Potion of Poison (Long),"potion[potion_contents={potion:""minecraft:long_poison""}]"
+,Potion of Poison (Strong),"potion[potion_contents={potion:""minecraft:strong_poison""}]"
+,Potion of Weakness,"potion[potion_contents={potion:""minecraft:weakness""}]"
+,Potion of Weakness (Long),"potion[potion_contents={potion:""minecraft:long_weakness""}]"
+,Potion of Slowness,"potion[potion_contents={potion:""minecraft:slowness""}]"
+,Potion of Slowness (Long),"potion[potion_contents={potion:""minecraft:long_slowness""}]"
+,Potion of Slowness (Strong),"potion[potion_contents={potion:""minecraft:strong_slowness""}]"
+,Potion of Infestation,"potion[potion_contents={potion:""minecraft:infested""}]"
+,Potion of Oozing,"potion[potion_contents={potion:""minecraft:oozing""}]"
+,Potion of Weaving,"potion[potion_contents={potion:""minecraft:weaving""}]"
+,Potion of Wind Charging,"potion[potion_contents={potion:""minecraft:wind_charged""}]"
+,Splash Water Bottle,"splash_potion[potion_contents={potion:""minecraft:water""}]"
+,Splash Uncraftable Potion,splash_potion
+,Awkward Splash Potion,"splash_potion[potion_contents={potion:""minecraft:awkward""}]"
+,Mundane Splash Potion,"splash_potion[potion_contents={potion:""minecraft:mundane""}]"
+,Thick Splash Potion,"splash_potion[potion_contents={potion:""minecraft:thick""}]"
+,Splash Potion of Healing,"splash_potion[potion_contents={potion:""minecraft:healing""}]"
+,Splash Potion of Healing (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_healing""}]"
+,Splash Potion of Regeneration,"splash_potion[potion_contents={potion:""minecraft:regeneration""}]"
+,Splash Potion of Regeneration (Long),"splash_potion[potion_contents={potion:""minecraft:long_regeneration""}]"
+,Splash Potion of Regeneration (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_regeneration""}]"
+,Splash Potion of Strength,"splash_potion[potion_contents={potion:""minecraft:strength""}]"
+,Splash Potion of Strength (Long),"splash_potion[potion_contents={potion:""minecraft:long_strength""}]"
+,Splash Potion of Strength (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_strength""}]"
+,Splash Potion of Swiftness,"splash_potion[potion_contents={potion:""minecraft:swiftness""}]"
+,Splash Potion of Swiftness (Long),"splash_potion[potion_contents={potion:""minecraft:long_swiftness""}]"
+,Splash Potion of Swiftness (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_swiftness""}]"
+,Splash Potion of Leaping,"splash_potion[potion_contents={potion:""minecraft:leaping""}]"
+,Splash Potion of Leaping (Long),"splash_potion[potion_contents={potion:""minecraft:long_leaping""}]"
+,Splash Potion of Leaping (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_leaping""}]"
+,Splash Potion of Luck,"splash_potion[potion_contents={potion:""minecraft:luck""}]"
+,Splash Potion of Night Vision,"splash_potion[potion_contents={potion:""minecraft:night_vision""}]"
+,Splash Potion of Night Vision (Long),"splash_potion[potion_contents={potion:""minecraft:long_night_vision""}]"
+,Splash Potion of Invisibility,"splash_potion[potion_contents={potion:""minecraft:invisibility""}]"
+,Splash Potion of Invisibility (Long),"splash_potion[potion_contents={potion:""minecraft:long_invisibility""}]"
+,Splash Potion of Water Breathing,"splash_potion[potion_contents={potion:""minecraft:water_breathing""}]"
+,Splash Potion of Water Breathing (Long),"splash_potion[potion_contents={potion:""minecraft:long_water_breathing""}]"
+,Splash Potion of Fire Resistance,"splash_potion[potion_contents={potion:""minecraft:fire_resistance""}]"
+,Splash Potion of Fire Resistance (Long),"splash_potion[potion_contents={potion:""minecraft:long_fire_resistance""}]"
+,Splash Potion of Slow Falling,"splash_potion[potion_contents={potion:""minecraft:slow_falling""}]"
+,Splash Potion of Slow Falling (Long),"splash_potion[potion_contents={potion:""minecraft:long_slow_falling""}]"
+,Splash Potion of the Turtle Master,"splash_potion[potion_contents={potion:""minecraft:turtle_master""}]"
+,Splash Potion of the Turtle Master (Long),"splash_potion[potion_contents={potion:""minecraft:long_turtle_master""}]"
+,Splash Potion of the Turtle Master (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_turtle_master""}]"
+,Splash Potion of Harming,"splash_potion[potion_contents={potion:""minecraft:harming""}]"
+,Splash Potion of Harming (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_harming""}]"
+,Splash Potion of Poison,"splash_potion[potion_contents={potion:""minecraft:poison""}]"
+,Splash Potion of Poison (Long),"splash_potion[potion_contents={potion:""minecraft:long_poison""}]"
+,Splash Potion of Poison (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_poison""}]"
+,Splash Potion of Weakness,"splash_potion[potion_contents={potion:""minecraft:weakness""}]"
+,Splash Potion of Weakness (Long),"splash_potion[potion_contents={potion:""minecraft:long_weakness""}]"
+,Splash Potion of Slowness,"splash_potion[potion_contents={potion:""minecraft:slowness""}]"
+,Splash Potion of Slowness (Long),"splash_potion[potion_contents={potion:""minecraft:long_slowness""}]"
+,Splash Potion of Slowness (Strong),"splash_potion[potion_contents={potion:""minecraft:strong_slowness""}]"
+,Splash Potion of Infestation,"splash_potion[potion_contents={potion:""minecraft:infested""}]"
+,Splash Potion of Oozing,"splash_potion[potion_contents={potion:""minecraft:oozing""}]"
+,Splash Potion of Weaving,"splash_potion[potion_contents={potion:""minecraft:weaving""}]"
+,Splash Potion of Wind Charging,"splash_potion[potion_contents={potion:""minecraft:wind_charged""}]"
+,Lingering Water Bottle,"lingering_potion[potion_contents={potion:""minecraft:water""}]"
+,Lingering Uncraftable Potion,lingering_potion
+,Awkward Lingering Potion,"lingering_potion[potion_contents={potion:""minecraft:awkward""}]"
+,Mundane Lingering Potion,"lingering_potion[potion_contents={potion:""minecraft:mundane""}]"
+,Thick Lingering Potion,"lingering_potion[potion_contents={potion:""minecraft:thick""}]"
+,Lingering Potion of Healing,"lingering_potion[potion_contents={potion:""minecraft:healing""}]"
+,Lingering Potion of Healing (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_healing""}]"
+,Lingering Potion of Regeneration,"lingering_potion[potion_contents={potion:""minecraft:regeneration""}]"
+,Lingering Potion of Regeneration (Long),"lingering_potion[potion_contents={potion:""minecraft:long_regeneration""}]"
+,Lingering Potion of Regeneration (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_regeneration""}]"
+,Lingering Potion of Strength,"lingering_potion[potion_contents={potion:""minecraft:strength""}]"
+,Lingering Potion of Strength (Long),"lingering_potion[potion_contents={potion:""minecraft:long_strength""}]"
+,Lingering Potion of Strength (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_strength""}]"
+,Lingering Potion of Swiftness,"lingering_potion[potion_contents={potion:""minecraft:swiftness""}]"
+,Lingering Potion of Swiftness (Long),"lingering_potion[potion_contents={potion:""minecraft:long_swiftness""}]"
+,Lingering Potion of Swiftness (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_swiftness""}]"
+,Lingering Potion of Leaping,"lingering_potion[potion_contents={potion:""minecraft:leaping""}]"
+,Lingering Potion of Leaping (Long),"lingering_potion[potion_contents={potion:""minecraft:long_leaping""}]"
+,Lingering Potion of Leaping (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_leaping""}]"
+,Lingering Potion of Luck,"lingering_potion[potion_contents={potion:""minecraft:luck""}]"
+,Lingering Potion of Night Vision,"lingering_potion[potion_contents={potion:""minecraft:night_vision""}]"
+,Lingering Potion of Night Vision (Long),"lingering_potion[potion_contents={potion:""minecraft:long_night_vision""}]"
+,Lingering Potion of Invisibility ,"lingering_potion[potion_contents={potion:""minecraft:invisibility""}]"
+,Lingering Potion of Invisibility (Long),"lingering_potion[potion_contents={potion:""minecraft:long_invisibility""}]"
+,Lingering Potion of Water Breathing,"lingering_potion[potion_contents={potion:""minecraft:water_breathing""}]"
+,Lingering Potion of Water Breathing (Long),"lingering_potion[potion_contents={potion:""minecraft:long_water_breathing""}]"
+,Lingering Potion of Fire Resistance,"lingering_potion[potion_contents={potion:""minecraft:fire_resistance""}]"
+,Lingering Potion of Fire Resistance (Long),"lingering_potion[potion_contents={potion:""minecraft:long_fire_resistance""}]"
+,Lingering Potion of Slow Falling,"lingering_potion[potion_contents={potion:""minecraft:slow_falling""}]"
+,Lingering Potion of Slow Falling (Long),"lingering_potion[potion_contents={potion:""minecraft:long_slow_falling""}]"
+,Lingering Potion of the Turtle Master,"lingering_potion[potion_contents={potion:""minecraft:turtle_master""}]"
+,Lingering Potion of the Turtle Master (Long),"lingering_potion[potion_contents={potion:""minecraft:long_turtle_master""}]"
+,Lingering Potion of the Turtle Master (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_turtle_master""}]"
+,Lingering Potion of Harming,"lingering_potion[potion_contents={potion:""minecraft:harming""}]"
+,Lingering Potion of Harming (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_harming""}]"
+,Lingering Potion of Poison,"lingering_potion[potion_contents={potion:""minecraft:poison""}]"
+,Lingering Potion of Poison (Long),"lingering_potion[potion_contents={potion:""minecraft:long_poison""}]"
+,Lingering Potion of Poison (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_poison""}]"
+,Lingering Potion of Weakness,"lingering_potion[potion_contents={potion:""minecraft:weakness""}]"
+,Lingering Potion of Weakness (Long),"lingering_potion[potion_contents={potion:""minecraft:long_weakness""}]"
+,Lingering Potion of Slowness,"lingering_potion[potion_contents={potion:""minecraft:slowness""}]"
+,Lingering Potion of Slowness (Long),"lingering_potion[potion_contents={potion:""minecraft:long_slowness""}]"
+,Lingering Potion of Slowness (Strong),"lingering_potion[potion_contents={potion:""minecraft:strong_slowness""}]"
+,Lingering Potion of Infestation,"lingering_potion[potion_contents={potion:""minecraft:infested""}]"
+,Lingering Potion of Oozing,"lingering__potion[potion_contents={potion:""minecraft:oozing""}]"
+,Lingering Potion of Weaving,"lingering_potion[potion_contents={potion:""minecraft:weaving""}]"
+,Lingering Potion of Wind Charging,"lingering_potion[potion_contents={potion:""minecraft:wind_charged""}]"
+,Saddle,saddle
+,Leather Horse Armor,leather_horse_armor
+,Copper Horse Armor,copper_horse_armor
+,Iron Horse Armor,iron_horse_armor
+,Golden Horse Armor,gold_horse_armor
+,Diamond Horse Armor,diamond_horse_armor
+,Netherite Horse Armor,netherite_horse_armor
+,Copper Nautilus Armor,copper_nautilus_armor
+,Iron Nautilus Armor,iron_nautilus_armor
+,Golden Nautilus Armor,golden_nautilus_armor
+,Diamond Nautilus Armor,diamond_nautilus_armor
+,Netherite Nautilus Armor,netherite_nautilus_armor
+,Wolf Armor,wolf_armor
+,Bucket,bucket
+,Water Bucket,water_bucket
+,Bucket of Cod,cod_bucket
+,Bucket of Salmon,salmon_bucket
+,Bucket of Tropical Fish,tropical_fish_bucket
+,Bucket of Pufferfish,pufferfish_bucket
+,Bucket of Axolotl,axolotl_bucket
+,Bucket of Tadpole,tadpole_bucket
+,Lava Bucket,lava_bucket
+,Milk Bucket,milk_bucket
+,Powder Snow Bucket,powder_snow_bucket
+,Flint and Steel,flint_and_steel
+,Shears,shears
+,Compass,compass
+,Recovery Compass,recovery_compass
+,Clock,clock
+,Spyglass,spyglass
+,Brush,brush
+,Lead,lead
+,Name Tag,name_tag
+,Totem of Undying,totem_of_undying
+,Fishing Rod,fishing_rod
+,Carrot on a Stick,carrot_on_a_stick
+,Warped Fungus on a Stick,warped_fungus_on_a_stick
+,Bow,bow
+,Crossbow,crossbow
+,Shield,shield
+,Mace,mace
+,Trident,trident
+,Turtle Shell,turtle_helmet
+,Elytra,elytra
+,Wooden Sword,wooden_sword
+,Stone Sword,stone_sword
+,Copper Sword,copper_sword
+,Iron Sword,iron_sword
+,Golden Sword,golden_sword
+,Diamond Sword,diamond_sword
+,Netherite Sword,netherite_sword
+,Wooden Spear,wooden_spear
+,Stone Spear,stone_spear
+,Copper Spear,copper_spear
+,Iron Spear,iron_spear
+,Golden Spear,golden_spear
+,Diamond Spear,diamond_spear
+,Netherite Spear,netherite_spear
+,Wooden Pickaxe,wooden_pickaxe
+,Stone Pickaxe,stone_pickaxe
+,Copper Pickaxe,copper_pickaxe
+,Iron Pickaxe,iron_pickaxe
+,Golden Pickaxe,golden_pickaxe
+,Diamond Pickaxe,diamond_pickaxe
+,Netherite Pickaxe,netherite_pickaxe
+,Wooden Axe,wooden_axe
+,Stone Axe,stone_axe
+,Copper Axe,copper_axe
+,Iron Axe,iron_axe
+,Golden Axe,golden_axe
+,Diamond Axe,diamond_axe
+,Netherite Axe,netherite_axe
+,Wooden Shovel,wooden_shovel
+,Stone Shovel,stone_shovel
+,Copper Shovel,copper_shovel
+,Iron Shovel,iron_shovel
+,Golden Shovel,golden_shovel
+,Diamond Shovel,diamond_shovel
+,Netherite Shovel,netherite_shovel
+,Wooden Hoe,wooden_hoe
+,Stone Hoe,stone_hoe
+,Copper Hoe,copper_hoe
+,Iron Hoe,iron_hoe
+,Golden Hoe,golden_hoe
+,Diamond Hoe,diamond_hoe
+,Netherite Hoe,netherite_hoe
+,Leather Cap,leather_helmet
+,Copper Helmet,copper_helmet
+,Chainmail Helmet,chainmail_helmet
+,Iron Helmet,iron_helmet
+,Golden Helmet,golden_helmet
+,Diamond Helmet,diamond_helmet
+,Netherite Helmet,netherite_helmet
+,Leather Tunic,leather_chestplate
+,Copper Chestplate,copper_chestplate
+,Chainmail Chestplate,chainmail_chestplate
+,Iron Chestplate,iron_chestplate
+,Golden Chestplate,golden_chestplate
+,Diamond Chestplate,diamond_chestplate
+,Netherite Chestplate,netherite_chestplate
+,Leather Pants,leather_leggings
+,Copper Leggings,copper_leggings
+,Chainmail Leggings,chainmail_leggings
+,Iron Leggings,iron_leggings
+,Golden Leggings,golden_leggings
+,Diamond Leggings,diamond_leggings
+,Netherite Leggings,netherite_leggings
+,Leather Boots,leather_boots
+,Copper Boots,copper_boots
+,Chainmail Boots,chainmail_boots
+,Iron Boots,iron_boots
+,Golden Boots,golden_boots
+,Diamond Boots,diamond_boots
+,Netherite Boots,netherite_boots
+,Debug Stick,debug_stick
+,Command Block,command_block
+,Chain Command Block,chain_command_block
+,Repeating Command Block,repeating_command_block
+,Test Instance Block,test_instance_block
+,Test Block (Start),test_block
+,Test Block (Log),"test_block[block_state={mode:""log""}]"
+,Test Block (Fail),"test_block[block_state={mode:""fail""}]"
+,Test Block (Accept),"test_block[block_state={mode:""accept""}]"
+,Structure Block,structure_block
+,Jigsaw Block,jigsaw
+,Structure Void,structure_void
+,Barrier,barrier
+,Light (0),"light[block_state={level:""0""}]"
+,Light (1),"light[block_state={level:""1""}]"
+,Light (2),"light[block_state={level:""2""}]"
+,Light (3),"light[block_state={level:""3""}]"
+,Light (4),"light[block_state={level:""4""}]"
+,Light (5),"light[block_state={level:""5""}]"
+,Light (6),"light[block_state={level:""6""}]"
+,Light (7),"light[block_state={level:""7""}]"
+,Light (8),"light[block_state={level:""8""}]"
+,Light (9),"light[block_state={level:""9""}]"
+,Light (10),"light[block_state={level:""10""}]"
+,Light (11),"light[block_state={level:""11""}]"
+,Light (12),"light[block_state={level:""12""}]"
+,Light (13),"light[block_state={level:""13""}]"
+,Light (14),"light[block_state={level:""14""}]"
+,Light (15),light
+,Allay Spawn Egg,allay_spawn_egg
+,Armadillo Spawn Egg,armadillo_spawn_egg
+,Axolotl Spawn Egg,axolotl_spawn_egg
+,Bat Spawn Egg,bat_spawn_egg
+,Bee Spawn Egg,bee_spawn_egg
+,Blaze Spawn Egg,blaze_spawn_egg
+,Bogged Spawn Egg,bogged_spawn_egg
+,Breeze Spawn Egg,breeze_spawn_egg
+,Camel Spawn Egg,camel_spawn_egg
+,Camel Husk Spawn Egg,camel_husk_spawn_egg
+,Cat Spawn Egg,cat_spawn_egg
+,Cave Spider Spawn Egg,cave_spider_spawn_egg
+,Chicken Spawn Egg,chicken_spawn_egg
+,Cod Spawn Egg,cod_spawn_egg
+,Copper Golem Spawn Egg,copper_golem_spawn_egg
+,Cow Spawn Egg,cow_spawn_egg
+,Creaking Spawn Egg,creaking_spawn_egg
+,Creeper Spawn Egg,creeper_spawn_egg
+,Dolphin Spawn Egg,dolphin_spawn_egg
+,Donkey Spawn Egg,donkey_spawn_egg
+,Drowned Spawn Egg,drowned_spawn_egg
+,Elder Guardian Spawn Egg,elder_guardian_spawn_egg
+,Ender Dragon Spawn Egg,ender_dragon_spawn_egg
+,Enderman Spawn Egg,enderman_spawn_egg
+,Endermite Spawn Egg,endermite_spawn_egg
+,Evoker Spawn Egg,evoker_spawn_egg
+,Fox Spawn Egg,fox_spawn_egg
+,Frog Spawn Egg,frog_spawn_egg
+,Ghast Spawn Egg,ghast_spawn_egg
+,Glow Squid Spawn Egg,glow_squid_spawn_egg
+,Goat Spawn Egg,goat_spawn_egg
+,Guardian Spawn Egg,guardian_spawn_egg
+,Happy Ghast Spawn Egg,happy_ghast_spawn_egg
+,Hoglin Spawn Egg,hoglin_spawn_egg
+,Horse Spawn Egg,horse_spawn_egg
+,Husk Spawn Egg,husk_spawn_egg
+,Iron Golem Spawn Egg,iron_golem_spawn_egg
+,Llama Spawn Egg,llama_spawn_egg
+,Magma Cube Spawn Egg,magma_cube_spawn_egg
+,Mooshroom Spawn Egg,mooshroom_spawn_egg
+,Mule Spawn Egg,mule_spawn_egg
+,Nautilus Spawn Egg,nautilus_spawn_egg
+,Ocelot Spawn Egg,ocelot_spawn_egg
+,Panda Spawn Egg,panda_spawn_egg
+,Parched Spawn Egg,parched_spawn_egg
+,Parrot Spawn Egg,parrot_spawn_egg
+,Phantom Spawn Egg,phantom_spawn_egg
+,Pig Spawn Egg,pig_spawn_egg
+,Piglin Spawn Egg,piglin_spawn_egg
+,Piglin Brute Spawn Egg,piglin_brute_spawn_egg
+,Pillager Spawn Egg,pillager_spawn_egg
+,Polar Bear Spawn Egg,polar_bear_spawn_egg
+,Pufferfish Spawn Egg,pufferfish_spawn_egg
+,Rabbit Spawn Egg,rabbit_spawn_egg
+,Ravager Spawn Egg,ravager_spawn_egg
+,Salmon Spawn Egg,salmon_spawn_egg
+,Sheep Spawn Egg,sheep_spawn_egg
+,Shulker Spawn Egg,shulker_spawn_egg
+,Silverfish Spawn Egg,silverfish_spawn_egg
+,Skeleton Spawn Egg,skeleton_spawn_egg
+,Skeleton Horse Spawn Egg,skeleton_horse_spawn_egg
+,Slime Spawn Egg,slime_spawn_egg
+,Sniffer Spawn Egg,sniffer_spawn_egg
+,Snow Golem Spawn Egg,snow_golem_spawn_egg
+,Spider Spawn Egg,spider_spawn_egg
+,Squid Spawn Egg,squid_spawn_egg
+,Stray Spawn Egg,stray_spawn_egg
+,Strider Spawn Egg,strider_spawn_egg
+,Tadpole Spawn Egg,tadpole_spawn_egg
+,Trader Llama Spawn Egg,trader_llama_spawn_egg
+,Tropical Fish Spawn Egg,tropical_fish_spawn_egg
+,Turtle Spawn Egg,turtle_spawn_egg
+,Vex Spawn Egg,vex_spawn_egg
+,Villager Spawn Egg,villager_spawn_egg
+,Vindicator Spawn Egg,vindicator_spawn_egg
+,Wandering Trader Spawn Egg,wandering_trader_spawn_egg
+,Warden Spawn Egg,warden_spawn_egg
+,Witch Spawn Egg,witch_spawn_egg
+,Wither Spawn Egg,wither_spawn_egg
+,Wither Skeleton Spawn Egg,wither_skeleton_spawn_egg
+,Wolf Spawn Egg,wolf_spawn_egg
+,Zoglin Spawn Egg,zoglin_spawn_egg
+,Zombie Spawn Egg,zombie_spawn_egg
+,Zombie Horse Spawn Egg,zombie_horse_spawn_egg
+,Zombie Nautilus Spawn Egg,zombie_nautilus_spawn_egg
+,Zombie Villager Spawn Egg,zombie_villager_spawn_egg
+,Zombified Piglin Spawn Egg,zombified_piglin_spawn_egg
